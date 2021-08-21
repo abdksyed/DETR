@@ -50,7 +50,7 @@ This than is passed though Pixel-wise Argmax and concatenated to get the final P
 ![Panoptic_Result](./asset/images/10_Panoptic.png)
 
 
-Acknowledments:
+### Acknowledments:
 Huge Thanks to [draw.io](https://app.diagrams.net/)  
 DETR Paper: [arxiv](https://arxiv.org/abs/2005.12872)  
 Excellent Demo from Author: [Video](https://www.youtube.com/watch?v=utxbUlo9CyY)  
