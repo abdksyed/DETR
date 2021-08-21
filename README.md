@@ -48,3 +48,10 @@ The Convolutions are all 3x3 Kernels, and the Normalization being used is Group 
 This than is passed though Pixel-wise Argmax and concatenated to get the final Panoptic Segmentation Mask.
 
 ![Panoptic_Result](./asset/images/10_Panoptic.png)
+
+
+Acknowledments:
+Huge Thanks to [draw.io](https://app.diagrams.net/)  
+DETR Paper: [arxiv](https://arxiv.org/abs/2005.12872)  
+Excellent Demo from Author: [Video](https://www.youtube.com/watch?v=utxbUlo9CyY)  
+Great Explanation on Paper: [Yanic](https://www.youtube.com/watch?v=T35ba_VXkMY) [AI Epiphany](https://www.youtube.com/watch?v=BNx-wno-0-g)
