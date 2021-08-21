@@ -1,6 +1,6 @@
 ![Panoptic_Flow](./asset/images/0_DETR_Panoptic.png)
 
-##### We take the encoded image (dxH/32xW/32) and send it to Multi-Head Attention (**FROM WHERE DO WE TAKE THIS ENCODED IMAGE?**)
+#### We take the encoded image (dxH/32xW/32) and send it to Multi-Head Attention (**FROM WHERE DO WE TAKE THIS ENCODED IMAGE?**)
 
 The encoded image *d x H/32 x W/32* is the image which is the output of the ***transformer encoder***. When the final feature map from ResNet-5 block is taken the shape of the feature map is *d x H/32 x W/32* and it is converted to embeddings by flattening it on H and W, and transposing it to become, 196x256 (HW x 256) as Transformers accept such sequential embeddings. This embeddings after passed through the 6 layer encoder maintains it's shape, if 196x256, and this final encoded 196x256 is again re-arranged to form the Encoded Image which after completion of object detection is sent to a Multi-head attention layer along with bounding box embeddings.  
 
@@ -8,7 +8,7 @@ The encoded image *d x H/32 x W/32* is the image which is the output of the ***t
 
 ###### We than along with dxN Box embeddings send the encoded Image to the Multi-Head Attention
 
-##### We do something here to generate N x M x H/32 x W/32 maps. (**WHAT DO WE DO HERE?**)
+#### We do something here to generate N x M x H/32 x W/32 maps. (**WHAT DO WE DO HERE?**)
 
 We perform a **Multi Head Attention** with the Bounding Box embeddings and the encoded image from the Transformer encoder. 
 
@@ -16,7 +16,7 @@ The each box embeddings are dot product with the encoded image, using *M* attent
 
 ![Box_Image_Attention](./asset/images/8_Box_Image_attn.png)
 
- ##### Then we concatenate these maps with Res5 Block (**WHERE IS THIS COMING FROM?**)
+ #### Then we concatenate these maps with Res5 Block (**WHERE IS THIS COMING FROM?**)
 
 After getting the attention maps which are small resolution, H/32 and W/32 needs to be up sampled to get the final segmentation image. To achieve the final prediction and increase the resolution, we use a similar concept of Feature Pyramid Networg
 
@@ -35,7 +35,7 @@ Hence the Res5/Res4/Res3/Res2 feature maps are coming from the Backbone CNN whic
 
 ![ResNet_FeatureMaps](./asset/images/12_Res_Middle.png)
 
-##### Then we perform the above steps (**EXPLAIN THESE STEPS**)
+#### Then we perform the above steps (**EXPLAIN THESE STEPS**)
 
 As mentioned above, the attention maps after Multi-Head Attention is concatenated with Res5 block feature maps and is send through a two set of Conv-Norm-Activation layer and than upsampled to become H/16 x W/16. Again the similar process is repeated where corresponding feature maps from ResNet blocks are added and send though Conv-Norm-Activation Layers, and finally a Conv-Norm-Activation-Conv layer is added to get the final attention maps. Here although we use the HxW image, the final attention maps are of the size H/4 x W/4, since in the beginning of ResNet it self we downsample the image by 4 times, hence that's the final Mask Logits are 4 times smaller.
 
@@ -43,7 +43,7 @@ The Convolutions are all 3x3 Kernels, and the Normalization being used is Group 
 
 ![Maps_2_Masks](./asset/images/11_Res_Up.png)
 
-##### RESULT
+#### RESULT
 
 This than is passed though Pixel-wise Argmax and concatenated to get the final Panoptic Segmentation Mask.
 
