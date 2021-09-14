@@ -1,0 +1,3839 @@
+{
+    "licenses": [
+        {
+            "name": "",
+            "id": 0,
+            "url": ""
+        }
+    ],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "aac_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                20,
+                60
+            ]
+        },
+        {
+            "id": 2,
+            "name": "adhesives",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                119,
+                11,
+                32
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ahus",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                142
+            ]
+        },
+        {
+            "id": 4,
+            "name": "aluminium_frames_for_false_ceiling",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                230
+            ]
+        },
+        {
+            "id": 5,
+            "name": "chiller",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                106,
+                0,
+                228
+            ]
+        },
+        {
+            "id": 6,
+            "name": "concrete_mixer_machine",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                60,
+                100
+            ]
+        },
+        {
+            "id": 7,
+            "name": "concrete_pump",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                80,
+                100
+            ]
+        },
+        {
+            "id": 8,
+            "name": "control_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                70
+            ]
+        },
+        {
+            "id": 9,
+            "name": "cu_piping",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                192
+            ]
+        },
+        {
+            "id": 10,
+            "name": "distribution_transformer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 11,
+            "name": "dump_truck___tipper_truck",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                100,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 12,
+            "name": "emulsion_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                220,
+                0
+            ]
+        },
+        {
+            "id": 13,
+            "name": "enamel_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                175,
+                116,
+                175
+            ]
+        },
+        {
+            "id": 14,
+            "name": "fine_aggregate",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                0,
+                30
+            ]
+        },
+        {
+            "id": 15,
+            "name": "fire_buckets",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                165,
+                42,
+                42
+            ]
+        },
+        {
+            "id": 16,
+            "name": "fire_extinguishers",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                77,
+                255
+            ]
+        },
+        {
+            "id": 17,
+            "name": "glass_wool",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                226,
+                252
+            ]
+        },
+        {
+            "id": 18,
+            "name": "grader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                182,
+                182,
+                255
+            ]
+        },
+        {
+            "id": 19,
+            "name": "hoist",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                82,
+                0
+            ]
+        },
+        {
+            "id": 20,
+            "name": "hollow_concrete_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                120,
+                166,
+                157
+            ]
+        },
+        {
+            "id": 21,
+            "name": "hot_mix_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                110,
+                76,
+                0
+            ]
+        },
+        {
+            "id": 22,
+            "name": "hydra_crane",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                57,
+                255
+            ]
+        },
+        {
+            "id": 23,
+            "name": "interlocked_switched_socket",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                199,
+                100,
+                0
+            ]
+        },
+        {
+            "id": 24,
+            "name": "junction_box",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                72,
+                0,
+                118
+            ]
+        },
+        {
+            "id": 25,
+            "name": "lime",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                179,
+                240
+            ]
+        },
+        {
+            "id": 26,
+            "name": "marble",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                125,
+                92
+            ]
+        },
+        {
+            "id": 27,
+            "name": "metal_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                209,
+                0,
+                151
+            ]
+        },
+        {
+            "id": 28,
+            "name": "pipe_fittings",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                188,
+                208,
+                182
+            ]
+        },
+        {
+            "id": 29,
+            "name": "rcc_hume_pipes",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                220,
+                176
+            ]
+        },
+        {
+            "id": 30,
+            "name": "refrigerant_gas",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                99,
+                164
+            ]
+        },
+        {
+            "id": 31,
+            "name": "river_sand",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                92,
+                0,
+                73
+            ]
+        },
+        {
+            "id": 32,
+            "name": "rmc_batching_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                133,
+                129,
+                255
+            ]
+        },
+        {
+            "id": 33,
+            "name": "rmu_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                78,
+                180,
+                255
+            ]
+        },
+        {
+            "id": 34,
+            "name": "sanitary_fixtures",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                228,
+                0
+            ]
+        },
+        {
+            "id": 35,
+            "name": "skid_steer_loader_(bobcat)",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                255,
+                243
+            ]
+        },
+        {
+            "id": 36,
+            "name": "smoke_detectors",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                45,
+                89,
+                255
+            ]
+        },
+        {
+            "id": 37,
+            "name": "split_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                134,
+                134,
+                103
+            ]
+        },
+        {
+            "id": 38,
+            "name": "structural_steel_-_channel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                145,
+                148,
+                174
+            ]
+        },
+        {
+            "id": 39,
+            "name": "switch_boards_and_switches",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                208,
+                186
+            ]
+        },
+        {
+            "id": 40,
+            "name": "texture_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                197,
+                226,
+                255
+            ]
+        },
+        {
+            "id": 41,
+            "name": "threaded_rod",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                171,
+                134,
+                1
+            ]
+        },
+        {
+            "id": 42,
+            "name": "transit_mixer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                109,
+                63,
+                54
+            ]
+        },
+        {
+            "id": 43,
+            "name": "vcb_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                207,
+                138,
+                255
+            ]
+        },
+        {
+            "id": 44,
+            "name": "vitrified_tiles",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                151,
+                0,
+                95
+            ]
+        },
+        {
+            "id": 45,
+            "name": "vrf_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                9,
+                80,
+                61
+            ]
+        },
+        {
+            "id": 46,
+            "name": "water_tank",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                84,
+                105,
+                51
+            ]
+        },
+        {
+            "id": 47,
+            "name": "wheel_loader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                74,
+                65,
+                105
+            ]
+        },
+        {
+            "id": 48,
+            "name": "wood_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                166,
+                196,
+                102
+            ]
+        },
+        {
+            "id": 100,
+            "name": "building",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                82,
+                18,
+                128
+            ]
+        },
+        {
+            "id": 101,
+            "name": "ceiling",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                255,
+                128
+            ]
+        },
+        {
+            "id": 102,
+            "name": "floor",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                147,
+                211,
+                203
+            ]
+        },
+        {
+            "id": 103,
+            "name": "food",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                150,
+                100,
+                100
+            ]
+        },
+        {
+            "id": 104,
+            "name": "furniture",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                168,
+                171,
+                172
+            ]
+        },
+        {
+            "id": 105,
+            "name": "ground",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                146,
+                112,
+                198
+            ]
+        },
+        {
+            "id": 106,
+            "name": "plant",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                92,
+                136,
+                89
+            ]
+        },
+        {
+            "id": 107,
+            "name": "raw_material",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                218,
+                88,
+                184
+            ]
+        },
+        {
+            "id": 108,
+            "name": "sky",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                241,
+                129,
+                0
+            ]
+        },
+        {
+            "id": 109,
+            "name": "solids",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                217,
+                17,
+                255
+            ]
+        },
+        {
+            "id": 110,
+            "name": "structural",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                124,
+                74,
+                181
+            ]
+        },
+        {
+            "id": 111,
+            "name": "textile",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                70,
+                70,
+                70
+            ]
+        },
+        {
+            "id": 112,
+            "name": "wall",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                228,
+                255
+            ]
+        },
+        {
+            "id": 113,
+            "name": "water",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                154,
+                208,
+                0
+            ]
+        },
+        {
+            "id": 114,
+            "name": "window",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                193,
+                0,
+                92
+            ]
+        },
+        {
+            "id": 115,
+            "name": "thing",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                210,
+                170,
+                100
+            ]
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss99.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 2,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss98.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 3,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss97.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 4,
+            "width": 474,
+            "height": 398,
+            "file_name": "iss96.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 5,
+            "width": 80,
+            "height": 80,
+            "file_name": "iss95.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 6,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss94.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 7,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss93.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 8,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss92.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 9,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss91.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 10,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss90.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 11,
+            "width": 474,
+            "height": 497,
+            "file_name": "iss89.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 12,
+            "width": 474,
+            "height": 355,
+            "file_name": "iss88.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 13,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss87.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 14,
+            "width": 365,
+            "height": 365,
+            "file_name": "iss86.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 15,
+            "width": 474,
+            "height": 447,
+            "file_name": "iss85.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 16,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss84.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 17,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss83.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 18,
+            "width": 474,
+            "height": 355,
+            "file_name": "iss82.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 19,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss81.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 20,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss80.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 21,
+            "width": 474,
+            "height": 379,
+            "file_name": "iss79.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 22,
+            "width": 474,
+            "height": 474,
+            "file_name": "iss78.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 23,
+            "width": 300,
+            "height": 292,
+            "file_name": "iss77.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 24,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss76.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 25,
+            "width": 300,
+            "height": 233,
+            "file_name": "iss75.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 26,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss74.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 27,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss73.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 28,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss72.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 29,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss71.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 30,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss70.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 31,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss69.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 32,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss68.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 33,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss67.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 34,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss66.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 35,
+            "width": 300,
+            "height": 242,
+            "file_name": "iss65.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 36,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss64.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 37,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss63.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 38,
+            "width": 300,
+            "height": 231,
+            "file_name": "iss62.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 39,
+            "width": 444,
+            "height": 313,
+            "file_name": "iss61.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 40,
+            "width": 444,
+            "height": 370,
+            "file_name": "iss60.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 41,
+            "width": 444,
+            "height": 372,
+            "file_name": "iss59.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 42,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss58.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 43,
+            "width": 198,
+            "height": 198,
+            "file_name": "iss57.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 44,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss56.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 45,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss55.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 46,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss54.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 47,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss53.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 48,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss52.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 49,
+            "width": 453,
+            "height": 453,
+            "file_name": "iss51.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 50,
+            "width": 300,
+            "height": 300,
+            "file_name": "iss100.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 51,
+            "width": 196,
+            "height": 195,
+            "file_name": "ISS9.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 52,
+            "width": 120,
+            "height": 196,
+            "file_name": "ISS8.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 53,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS7.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 54,
+            "width": 116,
+            "height": 196,
+            "file_name": "ISS6.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 55,
+            "width": 99,
+            "height": 196,
+            "file_name": "ISS50.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 56,
+            "width": 196,
+            "height": 174,
+            "file_name": "ISS5.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 57,
+            "width": 89,
+            "height": 196,
+            "file_name": "ISS49.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 58,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS48.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 59,
+            "width": 196,
+            "height": 178,
+            "file_name": "ISS47.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 60,
+            "width": 453,
+            "height": 453,
+            "file_name": "ISS46.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 61,
+            "width": 240,
+            "height": 240,
+            "file_name": "ISS45.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 62,
+            "width": 300,
+            "height": 300,
+            "file_name": "ISS44.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 63,
+            "width": 198,
+            "height": 198,
+            "file_name": "ISS43.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 64,
+            "width": 198,
+            "height": 198,
+            "file_name": "ISS42.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 65,
+            "width": 198,
+            "height": 198,
+            "file_name": "ISS41.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 66,
+            "width": 198,
+            "height": 198,
+            "file_name": "ISS40.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 67,
+            "width": 158,
+            "height": 196,
+            "file_name": "ISS4.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 68,
+            "width": 198,
+            "height": 198,
+            "file_name": "ISS39.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 69,
+            "width": 453,
+            "height": 453,
+            "file_name": "ISS38.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 70,
+            "width": 143,
+            "height": 196,
+            "file_name": "ISS37.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 71,
+            "width": 126,
+            "height": 196,
+            "file_name": "ISS36.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 72,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS35.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 73,
+            "width": 150,
+            "height": 102,
+            "file_name": "ISS34.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 74,
+            "width": 240,
+            "height": 240,
+            "file_name": "ISS33.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 75,
+            "width": 444,
+            "height": 375,
+            "file_name": "ISS32.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 76,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS31.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 77,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS30.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 78,
+            "width": 196,
+            "height": 195,
+            "file_name": "ISS3.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 79,
+            "width": 196,
+            "height": 196,
+            "file_name": "ISS29.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 80,
+            "width": 115,
+            "height": 196,
+            "file_name": "ISS28.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 81,
+            "width": 136,
+            "height": 170,
+            "file_name": "ISS27.JPG",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 82,
+            "width": 135,
+            "height": 172,
+            "file_name": "ISS26.JPG",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 83,
+            "width": 84,
+            "height": 170,
+            "file_name": "ISS25.JPG",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 84,
+            "width": 106,
+            "height": 171,
+            "file_name": "ISS24.JPG",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 85,
+            "width": 500,
+            "height": 500,
+            "file_name": "ISS23.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 86,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS22.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 87,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS21.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 88,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS20.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 89,
+            "width": 196,
+            "height": 183,
+            "file_name": "ISS2.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 90,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS19.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 91,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS18.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 92,
+            "width": 800,
+            "height": 760,
+            "file_name": "ISS17.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 93,
+            "width": 309,
+            "height": 479,
+            "file_name": "ISS16.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 94,
+            "width": 500,
+            "height": 500,
+            "file_name": "ISS15.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 95,
+            "width": 250,
+            "height": 190,
+            "file_name": "ISS14.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 96,
+            "width": 250,
+            "height": 250,
+            "file_name": "ISS13.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 97,
+            "width": 250,
+            "height": 250,
+            "file_name": "ISS12.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 98,
+            "width": 86,
+            "height": 196,
+            "file_name": "ISS11.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 99,
+            "width": 112,
+            "height": 196,
+            "file_name": "ISS10.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 100,
+            "width": 115,
+            "height": 196,
+            "file_name": "ISS1.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        51,
+                        68,
+                        199,
+                        160
+                    ],
+                    "area": 28000.0
+                }
+            ],
+            "file_name": "iss99.png",
+            "image_id": 1
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        52,
+                        68,
+                        198,
+                        161
+                    ],
+                    "area": 28193.0
+                }
+            ],
+            "file_name": "iss98.png",
+            "image_id": 2
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        65,
+                        82,
+                        172,
+                        136
+                    ],
+                    "area": 17526.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        300
+                    ],
+                    "area": 72084.0
+                }
+            ],
+            "file_name": "iss97.png",
+            "image_id": 3
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        78,
+                        61,
+                        330,
+                        287
+                    ],
+                    "area": 58720.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        474,
+                        398
+                    ],
+                    "area": 128898.0
+                }
+            ],
+            "file_name": "iss96.png",
+            "image_id": 4
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        3,
+                        38,
+                        41,
+                        35
+                    ],
+                    "area": 1270.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        80,
+                        80
+                    ],
+                    "area": 3721.0
+                }
+            ],
+            "file_name": "iss95.png",
+            "image_id": 5
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        13,
+                        27,
+                        381,
+                        409
+                    ],
+                    "area": 93892.0
+                }
+            ],
+            "file_name": "iss94.png",
+            "image_id": 6
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        117,
+                        11,
+                        212,
+                        432
+                    ],
+                    "area": 58153.0
+                }
+            ],
+            "file_name": "iss93.png",
+            "image_id": 7
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        22,
+                        24,
+                        428,
+                        427
+                    ],
+                    "area": 149848.0
+                }
+            ],
+            "file_name": "iss92.png",
+            "image_id": 8
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        19,
+                        24,
+                        366,
+                        415
+                    ],
+                    "area": 99701.0
+                }
+            ],
+            "file_name": "iss91.png",
+            "image_id": 9
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        34,
+                        44,
+                        224,
+                        205
+                    ],
+                    "area": 28905.0
+                }
+            ],
+            "file_name": "iss90.png",
+            "image_id": 10
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        114,
+                        1,
+                        258,
+                        496
+                    ],
+                    "area": 106427.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        474,
+                        497
+                    ],
+                    "area": 127591.0
+                }
+            ],
+            "file_name": "iss89.png",
+            "image_id": 11
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        20,
+                        3,
+                        419,
+                        339
+                    ],
+                    "area": 77562.0
+                }
+            ],
+            "file_name": "iss88.png",
+            "image_id": 12
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        26,
+                        79,
+                        424,
+                        317
+                    ],
+                    "area": 95206.0
+                }
+            ],
+            "file_name": "iss87.png",
+            "image_id": 13
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        12,
+                        42,
+                        336,
+                        265
+                    ],
+                    "area": 76444.0
+                }
+            ],
+            "file_name": "iss86.png",
+            "image_id": 14
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        27,
+                        70,
+                        427,
+                        375
+                    ],
+                    "area": 84135.0
+                }
+            ],
+            "file_name": "iss85.png",
+            "image_id": 15
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        22,
+                        64,
+                        441,
+                        336
+                    ],
+                    "area": 81730.0
+                }
+            ],
+            "file_name": "iss84.png",
+            "image_id": 16
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        60,
+                        12,
+                        287,
+                        446
+                    ],
+                    "area": 73496.0
+                }
+            ],
+            "file_name": "iss83.png",
+            "image_id": 17
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        138,
+                        17,
+                        173,
+                        319
+                    ],
+                    "area": 46010.0
+                }
+            ],
+            "file_name": "iss82.png",
+            "image_id": 18
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        64,
+                        11,
+                        321,
+                        450
+                    ],
+                    "area": 94874.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        474,
+                        474
+                    ],
+                    "area": 127786.0
+                }
+            ],
+            "file_name": "iss81.png",
+            "image_id": 19
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        7,
+                        93,
+                        467,
+                        342
+                    ],
+                    "area": 123552.0
+                }
+            ],
+            "file_name": "iss80.png",
+            "image_id": 20
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        0,
+                        473,
+                        379
+                    ],
+                    "area": 129088.0
+                }
+            ],
+            "file_name": "iss79.png",
+            "image_id": 21
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        24,
+                        41,
+                        423,
+                        409
+                    ],
+                    "area": 154032.0
+                }
+            ],
+            "file_name": "iss78.png",
+            "image_id": 22
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        18,
+                        109,
+                        247,
+                        146
+                    ],
+                    "area": 28197.0
+                }
+            ],
+            "file_name": "iss77.png",
+            "image_id": 23
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        77,
+                        45,
+                        140,
+                        209
+                    ],
+                    "area": 25537.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        300
+                    ],
+                    "area": 61263.0
+                }
+            ],
+            "file_name": "iss76.png",
+            "image_id": 24
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        37,
+                        39,
+                        260,
+                        179
+                    ],
+                    "area": 36341.0
+                }
+            ],
+            "file_name": "iss75.png",
+            "image_id": 25
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        44,
+                        62,
+                        212,
+                        181
+                    ],
+                    "area": 28954.0
+                }
+            ],
+            "file_name": "iss74.png",
+            "image_id": 26
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        20,
+                        63,
+                        262,
+                        207
+                    ],
+                    "area": 38167.0
+                }
+            ],
+            "file_name": "iss73.png",
+            "image_id": 27
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        25,
+                        78,
+                        252,
+                        208
+                    ],
+                    "area": 34411.0
+                }
+            ],
+            "file_name": "iss72.png",
+            "image_id": 28
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        59,
+                        70,
+                        171,
+                        176
+                    ],
+                    "area": 16697.0
+                }
+            ],
+            "file_name": "iss71.png",
+            "image_id": 29
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        41,
+                        37,
+                        182,
+                        230
+                    ],
+                    "area": 31879.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        300
+                    ],
+                    "area": 58014.0
+                }
+            ],
+            "file_name": "iss70.png",
+            "image_id": 30
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        16,
+                        41,
+                        270,
+                        215
+                    ],
+                    "area": 50136.0
+                }
+            ],
+            "file_name": "iss69.png",
+            "image_id": 31
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        42,
+                        64,
+                        217,
+                        169
+                    ],
+                    "area": 20081.0
+                }
+            ],
+            "file_name": "iss68.png",
+            "image_id": 32
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        27,
+                        61,
+                        245,
+                        179
+                    ],
+                    "area": 41050.0
+                }
+            ],
+            "file_name": "iss67.png",
+            "image_id": 33
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        99,
+                        29,
+                        105,
+                        235
+                    ],
+                    "area": 22428.0
+                }
+            ],
+            "file_name": "iss66.png",
+            "image_id": 34
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        13,
+                        11,
+                        279,
+                        214
+                    ],
+                    "area": 32966.0
+                }
+            ],
+            "file_name": "iss65.png",
+            "image_id": 35
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        28,
+                        93,
+                        248,
+                        99
+                    ],
+                    "area": 20439.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        300
+                    ],
+                    "area": 69199.0
+                }
+            ],
+            "file_name": "iss64.png",
+            "image_id": 36
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        28,
+                        71,
+                        245,
+                        201
+                    ],
+                    "area": 34972.0
+                }
+            ],
+            "file_name": "iss63.png",
+            "image_id": 37
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        26,
+                        10,
+                        238,
+                        205
+                    ],
+                    "area": 26157.0
+                }
+            ],
+            "file_name": "iss62.png",
+            "image_id": 38
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        27,
+                        24,
+                        396,
+                        277
+                    ],
+                    "area": 77982.0
+                }
+            ],
+            "file_name": "iss61.png",
+            "image_id": 39
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        6,
+                        2,
+                        434,
+                        366
+                    ],
+                    "area": 108214.0
+                }
+            ],
+            "file_name": "iss60.png",
+            "image_id": 40
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        7,
+                        3,
+                        432,
+                        364
+                    ],
+                    "area": 109800.0
+                }
+            ],
+            "file_name": "iss59.png",
+            "image_id": 41
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        47,
+                        2,
+                        362,
+                        449
+                    ],
+                    "area": 139826.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        453,
+                        453
+                    ],
+                    "area": 62958.0
+                }
+            ],
+            "file_name": "iss58.png",
+            "image_id": 42
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        39,
+                        0,
+                        120,
+                        198
+                    ],
+                    "area": 19895.0
+                }
+            ],
+            "file_name": "iss57.png",
+            "image_id": 43
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        43,
+                        451,
+                        365
+                    ],
+                    "area": 114086.0
+                }
+            ],
+            "file_name": "iss56.png",
+            "image_id": 44
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        140,
+                        3,
+                        171,
+                        444
+                    ],
+                    "area": 65127.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        453,
+                        453
+                    ],
+                    "area": 138374.0
+                }
+            ],
+            "file_name": "iss55.png",
+            "image_id": 45
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        42,
+                        452,
+                        367
+                    ],
+                    "area": 117180.0
+                }
+            ],
+            "file_name": "iss54.png",
+            "image_id": 46
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        16,
+                        1,
+                        420,
+                        452
+                    ],
+                    "area": 146616.0
+                }
+            ],
+            "file_name": "iss53.png",
+            "image_id": 47
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        18,
+                        452,
+                        386
+                    ],
+                    "area": 145712.0
+                }
+            ],
+            "file_name": "iss52.png",
+            "image_id": 48
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        67,
+                        2,
+                        318,
+                        448
+                    ],
+                    "area": 120441.0
+                }
+            ],
+            "file_name": "iss51.png",
+            "image_id": 49
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        52,
+                        66,
+                        198,
+                        162
+                    ],
+                    "area": 28172.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        300
+                    ],
+                    "area": 61530.0
+                }
+            ],
+            "file_name": "iss100.png",
+            "image_id": 50
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        8,
+                        194,
+                        182
+                    ],
+                    "area": 32581.0
+                }
+            ],
+            "file_name": "ISS9.png",
+            "image_id": 51
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        10,
+                        0,
+                        101,
+                        196
+                    ],
+                    "area": 18297.0
+                }
+            ],
+            "file_name": "ISS8.png",
+            "image_id": 52
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        48,
+                        1,
+                        101,
+                        194
+                    ],
+                    "area": 17846.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        196,
+                        196
+                    ],
+                    "area": 20311.0
+                }
+            ],
+            "file_name": "ISS7.png",
+            "image_id": 53
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        11,
+                        0,
+                        98,
+                        196
+                    ],
+                    "area": 17405.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        116,
+                        196
+                    ],
+                    "area": 4735.0
+                }
+            ],
+            "file_name": "ISS6.png",
+            "image_id": 54
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        15,
+                        1,
+                        69,
+                        195
+                    ],
+                    "area": 12747.0
+                }
+            ],
+            "file_name": "ISS50.png",
+            "image_id": 55
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        0,
+                        195,
+                        169
+                    ],
+                    "area": 28183.0
+                }
+            ],
+            "file_name": "ISS5.png",
+            "image_id": 56
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        0,
+                        89,
+                        195
+                    ],
+                    "area": 15186.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        89,
+                        196
+                    ],
+                    "area": 2084.0
+                }
+            ],
+            "file_name": "ISS49.png",
+            "image_id": 57
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        8,
+                        194,
+                        179
+                    ],
+                    "area": 29542.0
+                }
+            ],
+            "file_name": "ISS48.png",
+            "image_id": 58
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        0,
+                        196,
+                        178
+                    ],
+                    "area": 29205.0
+                }
+            ],
+            "file_name": "ISS47.png",
+            "image_id": 59
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        94,
+                        1,
+                        266,
+                        450
+                    ],
+                    "area": 107951.0
+                }
+            ],
+            "file_name": "ISS46.png",
+            "image_id": 60
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        22,
+                        0,
+                        196,
+                        240
+                    ],
+                    "area": 39760.0
+                }
+            ],
+            "file_name": "ISS45.png",
+            "image_id": 61
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        19,
+                        43,
+                        260,
+                        212
+                    ],
+                    "area": 36232.0
+                }
+            ],
+            "file_name": "ISS44.png",
+            "image_id": 62
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        30,
+                        0,
+                        139,
+                        198
+                    ],
+                    "area": 22496.0
+                }
+            ],
+            "file_name": "ISS43.png",
+            "image_id": 63
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        29,
+                        3,
+                        140,
+                        191
+                    ],
+                    "area": 20093.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        198,
+                        198
+                    ],
+                    "area": 18994.0
+                }
+            ],
+            "file_name": "ISS42.png",
+            "image_id": 64
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        42,
+                        0,
+                        116,
+                        198
+                    ],
+                    "area": 20823.0
+                }
+            ],
+            "file_name": "ISS41.png",
+            "image_id": 65
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        67,
+                        3,
+                        62,
+                        190
+                    ],
+                    "area": 11025.0
+                }
+            ],
+            "file_name": "ISS40.png",
+            "image_id": 66
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        37,
+                        1,
+                        82,
+                        194
+                    ],
+                    "area": 15187.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        158,
+                        196
+                    ],
+                    "area": 15545.0
+                }
+            ],
+            "file_name": "ISS4.png",
+            "image_id": 67
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        41,
+                        2,
+                        117,
+                        192
+                    ],
+                    "area": 19071.0
+                }
+            ],
+            "file_name": "ISS39.png",
+            "image_id": 68
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        67,
+                        3,
+                        320,
+                        450
+                    ],
+                    "area": 122546.0
+                }
+            ],
+            "file_name": "ISS38.png",
+            "image_id": 69
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        5,
+                        0,
+                        126,
+                        196
+                    ],
+                    "area": 19136.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        143,
+                        196
+                    ],
+                    "area": 8863.0
+                }
+            ],
+            "file_name": "ISS37.png",
+            "image_id": 70
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        0,
+                        122,
+                        196
+                    ],
+                    "area": 20185.0
+                }
+            ],
+            "file_name": "ISS36.png",
+            "image_id": 71
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        37,
+                        0,
+                        123,
+                        196
+                    ],
+                    "area": 22939.0
+                }
+            ],
+            "file_name": "ISS35.png",
+            "image_id": 72
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        3,
+                        0,
+                        146,
+                        100
+                    ],
+                    "area": 11784.0
+                }
+            ],
+            "file_name": "ISS34.png",
+            "image_id": 73
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        1,
+                        0,
+                        232,
+                        240
+                    ],
+                    "area": 41256.0
+                }
+            ],
+            "file_name": "ISS33.png",
+            "image_id": 74
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        4,
+                        0,
+                        421,
+                        364
+                    ],
+                    "area": 131060.0
+                }
+            ],
+            "file_name": "ISS32.png",
+            "image_id": 75
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        7,
+                        0,
+                        183,
+                        195
+                    ],
+                    "area": 29251.0
+                }
+            ],
+            "file_name": "ISS31.png",
+            "image_id": 76
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        41,
+                        0,
+                        112,
+                        195
+                    ],
+                    "area": 20819.0
+                }
+            ],
+            "file_name": "ISS30.png",
+            "image_id": 77
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        5,
+                        195,
+                        183
+                    ],
+                    "area": 35089.0
+                }
+            ],
+            "file_name": "ISS3.png",
+            "image_id": 78
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        37,
+                        0,
+                        123,
+                        196
+                    ],
+                    "area": 23174.0
+                }
+            ],
+            "file_name": "ISS29.png",
+            "image_id": 79
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        195
+                    ],
+                    "area": 19032.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        146,
+                        115,
+                        50
+                    ],
+                    "area": 1421.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        161
+                    ],
+                    "area": 1930.0
+                }
+            ],
+            "file_name": "ISS28.png",
+            "image_id": 80
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        18,
+                        7,
+                        98,
+                        158
+                    ],
+                    "area": 14716.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        136,
+                        170
+                    ],
+                    "area": 8353.0
+                }
+            ],
+            "file_name": "ISS27.png",
+            "image_id": 81
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        15,
+                        7,
+                        116,
+                        162
+                    ],
+                    "area": 14987.0
+                }
+            ],
+            "file_name": "ISS26.png",
+            "image_id": 82
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        14,
+                        5,
+                        62,
+                        158
+                    ],
+                    "area": 8390.0
+                }
+            ],
+            "file_name": "ISS25.png",
+            "image_id": 83
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        25,
+                        10,
+                        64,
+                        157
+                    ],
+                    "area": 8614.0
+                }
+            ],
+            "file_name": "ISS24.png",
+            "image_id": 84
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        136,
+                        39,
+                        230,
+                        422
+                    ],
+                    "area": 89998.0
+                }
+            ],
+            "file_name": "ISS23.png",
+            "image_id": 85
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        71,
+                        800,
+                        648
+                    ],
+                    "area": 372314.0
+                }
+            ],
+            "file_name": "ISS22.png",
+            "image_id": 86
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        97,
+                        800,
+                        566
+                    ],
+                    "area": 295282.0
+                }
+            ],
+            "file_name": "ISS21.png",
+            "image_id": 87
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        79,
+                        800,
+                        608
+                    ],
+                    "area": 309604.0
+                }
+            ],
+            "file_name": "ISS20.png",
+            "image_id": 88
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        7,
+                        196,
+                        167
+                    ],
+                    "area": 28097.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        196,
+                        183
+                    ],
+                    "area": 7604.0
+                }
+            ],
+            "file_name": "ISS2.png",
+            "image_id": 89
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        69,
+                        800,
+                        620
+                    ],
+                    "area": 486453.0
+                }
+            ],
+            "file_name": "ISS19.png",
+            "image_id": 90
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        54,
+                        800,
+                        646
+                    ],
+                    "area": 313244.0
+                }
+            ],
+            "file_name": "ISS18.png",
+            "image_id": 91
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        149,
+                        796,
+                        468
+                    ],
+                    "area": 315603.0
+                }
+            ],
+            "file_name": "ISS17.png",
+            "image_id": 92
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        4,
+                        6,
+                        284,
+                        462
+                    ],
+                    "area": 97059.0
+                }
+            ],
+            "file_name": "ISS16.png",
+            "image_id": 93
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        117,
+                        43,
+                        280,
+                        416
+                    ],
+                    "area": 79241.0
+                }
+            ],
+            "file_name": "ISS15.png",
+            "image_id": 94
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        16,
+                        10,
+                        199,
+                        157
+                    ],
+                    "area": 14431.0
+                }
+            ],
+            "file_name": "ISS14.png",
+            "image_id": 95
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        30,
+                        14,
+                        181,
+                        228
+                    ],
+                    "area": 21896.0
+                }
+            ],
+            "file_name": "ISS13.png",
+            "image_id": 96
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        18,
+                        0,
+                        218,
+                        250
+                    ],
+                    "area": 35998.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        250,
+                        250
+                    ],
+                    "area": 25675.0
+                }
+            ],
+            "file_name": "ISS12.png",
+            "image_id": 97
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        4,
+                        0,
+                        79,
+                        196
+                    ],
+                    "area": 13478.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        86,
+                        196
+                    ],
+                    "area": 3228.0
+                }
+            ],
+            "file_name": "ISS11.png",
+            "image_id": 98
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        4,
+                        0,
+                        104,
+                        195
+                    ],
+                    "area": 18807.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        112,
+                        196
+                    ],
+                    "area": 2786.0
+                }
+            ],
+            "file_name": "ISS10.png",
+            "image_id": 99
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 25799,
+                    "category_id": 23,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        196
+                    ],
+                    "area": 18813.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        146,
+                        115,
+                        50
+                    ],
+                    "area": 1547.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        160
+                    ],
+                    "area": 2027.0
+                }
+            ],
+            "file_name": "ISS1.png",
+            "image_id": 100
+        }
+    ]
+}
