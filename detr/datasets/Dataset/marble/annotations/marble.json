@@ -1,0 +1,3327 @@
+{
+    "licenses": [
+        {
+            "name": "",
+            "id": 0,
+            "url": ""
+        }
+    ],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "aac_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                20,
+                60
+            ]
+        },
+        {
+            "id": 2,
+            "name": "adhesives",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                119,
+                11,
+                32
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ahus",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                142
+            ]
+        },
+        {
+            "id": 4,
+            "name": "aluminium_frames_for_false_ceiling",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                230
+            ]
+        },
+        {
+            "id": 5,
+            "name": "chiller",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                106,
+                0,
+                228
+            ]
+        },
+        {
+            "id": 6,
+            "name": "concrete_mixer_machine",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                60,
+                100
+            ]
+        },
+        {
+            "id": 7,
+            "name": "concrete_pump",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                80,
+                100
+            ]
+        },
+        {
+            "id": 8,
+            "name": "control_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                70
+            ]
+        },
+        {
+            "id": 9,
+            "name": "cu_piping",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                192
+            ]
+        },
+        {
+            "id": 10,
+            "name": "distribution_transformer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 11,
+            "name": "dump_truck___tipper_truck",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                100,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 12,
+            "name": "emulsion_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                220,
+                0
+            ]
+        },
+        {
+            "id": 13,
+            "name": "enamel_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                175,
+                116,
+                175
+            ]
+        },
+        {
+            "id": 14,
+            "name": "fine_aggregate",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                0,
+                30
+            ]
+        },
+        {
+            "id": 15,
+            "name": "fire_buckets",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                165,
+                42,
+                42
+            ]
+        },
+        {
+            "id": 16,
+            "name": "fire_extinguishers",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                77,
+                255
+            ]
+        },
+        {
+            "id": 17,
+            "name": "glass_wool",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                226,
+                252
+            ]
+        },
+        {
+            "id": 18,
+            "name": "grader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                182,
+                182,
+                255
+            ]
+        },
+        {
+            "id": 19,
+            "name": "hoist",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                82,
+                0
+            ]
+        },
+        {
+            "id": 20,
+            "name": "hollow_concrete_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                120,
+                166,
+                157
+            ]
+        },
+        {
+            "id": 21,
+            "name": "hot_mix_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                110,
+                76,
+                0
+            ]
+        },
+        {
+            "id": 22,
+            "name": "hydra_crane",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                57,
+                255
+            ]
+        },
+        {
+            "id": 23,
+            "name": "interlocked_switched_socket",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                199,
+                100,
+                0
+            ]
+        },
+        {
+            "id": 24,
+            "name": "junction_box",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                72,
+                0,
+                118
+            ]
+        },
+        {
+            "id": 25,
+            "name": "lime",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                179,
+                240
+            ]
+        },
+        {
+            "id": 26,
+            "name": "marble",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                125,
+                92
+            ]
+        },
+        {
+            "id": 27,
+            "name": "metal_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                209,
+                0,
+                151
+            ]
+        },
+        {
+            "id": 28,
+            "name": "pipe_fittings",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                188,
+                208,
+                182
+            ]
+        },
+        {
+            "id": 29,
+            "name": "rcc_hume_pipes",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                220,
+                176
+            ]
+        },
+        {
+            "id": 30,
+            "name": "refrigerant_gas",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                99,
+                164
+            ]
+        },
+        {
+            "id": 31,
+            "name": "river_sand",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                92,
+                0,
+                73
+            ]
+        },
+        {
+            "id": 32,
+            "name": "rmc_batching_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                133,
+                129,
+                255
+            ]
+        },
+        {
+            "id": 33,
+            "name": "rmu_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                78,
+                180,
+                255
+            ]
+        },
+        {
+            "id": 34,
+            "name": "sanitary_fixtures",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                228,
+                0
+            ]
+        },
+        {
+            "id": 35,
+            "name": "skid_steer_loader_(bobcat)",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                255,
+                243
+            ]
+        },
+        {
+            "id": 36,
+            "name": "smoke_detectors",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                45,
+                89,
+                255
+            ]
+        },
+        {
+            "id": 37,
+            "name": "split_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                134,
+                134,
+                103
+            ]
+        },
+        {
+            "id": 38,
+            "name": "structural_steel_-_channel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                145,
+                148,
+                174
+            ]
+        },
+        {
+            "id": 39,
+            "name": "switch_boards_and_switches",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                208,
+                186
+            ]
+        },
+        {
+            "id": 40,
+            "name": "texture_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                197,
+                226,
+                255
+            ]
+        },
+        {
+            "id": 41,
+            "name": "threaded_rod",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                171,
+                134,
+                1
+            ]
+        },
+        {
+            "id": 42,
+            "name": "transit_mixer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                109,
+                63,
+                54
+            ]
+        },
+        {
+            "id": 43,
+            "name": "vcb_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                207,
+                138,
+                255
+            ]
+        },
+        {
+            "id": 44,
+            "name": "vitrified_tiles",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                151,
+                0,
+                95
+            ]
+        },
+        {
+            "id": 45,
+            "name": "vrf_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                9,
+                80,
+                61
+            ]
+        },
+        {
+            "id": 46,
+            "name": "water_tank",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                84,
+                105,
+                51
+            ]
+        },
+        {
+            "id": 47,
+            "name": "wheel_loader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                74,
+                65,
+                105
+            ]
+        },
+        {
+            "id": 48,
+            "name": "wood_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                166,
+                196,
+                102
+            ]
+        },
+        {
+            "id": 100,
+            "name": "building",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                82,
+                18,
+                128
+            ]
+        },
+        {
+            "id": 101,
+            "name": "ceiling",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                255,
+                128
+            ]
+        },
+        {
+            "id": 102,
+            "name": "floor",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                147,
+                211,
+                203
+            ]
+        },
+        {
+            "id": 103,
+            "name": "food",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                150,
+                100,
+                100
+            ]
+        },
+        {
+            "id": 104,
+            "name": "furniture",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                168,
+                171,
+                172
+            ]
+        },
+        {
+            "id": 105,
+            "name": "ground",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                146,
+                112,
+                198
+            ]
+        },
+        {
+            "id": 106,
+            "name": "plant",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                92,
+                136,
+                89
+            ]
+        },
+        {
+            "id": 107,
+            "name": "raw_material",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                218,
+                88,
+                184
+            ]
+        },
+        {
+            "id": 108,
+            "name": "sky",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                241,
+                129,
+                0
+            ]
+        },
+        {
+            "id": 109,
+            "name": "solids",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                217,
+                17,
+                255
+            ]
+        },
+        {
+            "id": 110,
+            "name": "structural",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                124,
+                74,
+                181
+            ]
+        },
+        {
+            "id": 111,
+            "name": "textile",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                70,
+                70,
+                70
+            ]
+        },
+        {
+            "id": 112,
+            "name": "wall",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                228,
+                255
+            ]
+        },
+        {
+            "id": 113,
+            "name": "water",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                154,
+                208,
+                0
+            ]
+        },
+        {
+            "id": 114,
+            "name": "window",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                193,
+                0,
+                92
+            ]
+        },
+        {
+            "id": 115,
+            "name": "thing",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                210,
+                170,
+                100
+            ]
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 500,
+            "height": 257,
+            "file_name": "marble31.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 2,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble2.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 3,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble1.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 4,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble 9.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 5,
+            "width": 432,
+            "height": 280,
+            "file_name": "marble 8.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 6,
+            "width": 500,
+            "height": 375,
+            "file_name": "marble 7.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 7,
+            "width": 800,
+            "height": 640,
+            "file_name": "marble 6.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 8,
+            "width": 800,
+            "height": 450,
+            "file_name": "marble 50.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 9,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble 5.jpeg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 10,
+            "width": 375,
+            "height": 500,
+            "file_name": "marble 49.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 11,
+            "width": 750,
+            "height": 562,
+            "file_name": "marble 48.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 12,
+            "width": 250,
+            "height": 250,
+            "file_name": "marble 47.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 13,
+            "width": 800,
+            "height": 634,
+            "file_name": "marble 46.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 14,
+            "width": 600,
+            "height": 450,
+            "file_name": "marble 45.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 15,
+            "width": 600,
+            "height": 600,
+            "file_name": "marble 44.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 16,
+            "width": 800,
+            "height": 584,
+            "file_name": "marble 43.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 17,
+            "width": 800,
+            "height": 450,
+            "file_name": "marble 42.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 18,
+            "width": 500,
+            "height": 386,
+            "file_name": "marble 41.jpeg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 19,
+            "width": 800,
+            "height": 450,
+            "file_name": "marble 40.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 20,
+            "width": 800,
+            "height": 600,
+            "file_name": "marble 4.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 21,
+            "width": 800,
+            "height": 533,
+            "file_name": "marble 38.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 22,
+            "width": 800,
+            "height": 450,
+            "file_name": "marble 37.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 23,
+            "width": 800,
+            "height": 532,
+            "file_name": "marble 36.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 24,
+            "width": 300,
+            "height": 200,
+            "file_name": "marble 35.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 25,
+            "width": 800,
+            "height": 450,
+            "file_name": "marble 34.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 26,
+            "width": 800,
+            "height": 374,
+            "file_name": "marble 33.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 27,
+            "width": 774,
+            "height": 370,
+            "file_name": "marble 32.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 28,
+            "width": 550,
+            "height": 412,
+            "file_name": "marble 30.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 29,
+            "width": 732,
+            "height": 647,
+            "file_name": "marble 3.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 30,
+            "width": 341,
+            "height": 255,
+            "file_name": "marble 29.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 31,
+            "width": 560,
+            "height": 420,
+            "file_name": "marble 28.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 32,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble 27.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 33,
+            "width": 800,
+            "height": 600,
+            "file_name": "marble 26.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 34,
+            "width": 800,
+            "height": 520,
+            "file_name": "marble 25.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 35,
+            "width": 800,
+            "height": 600,
+            "file_name": "marble 24.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 36,
+            "width": 800,
+            "height": 464,
+            "file_name": "marble 23.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 37,
+            "width": 500,
+            "height": 500,
+            "file_name": "marble 22.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 38,
+            "width": 716,
+            "height": 542,
+            "file_name": "marble 21.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 39,
+            "width": 250,
+            "height": 250,
+            "file_name": "marble 20.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 40,
+            "width": 500,
+            "height": 375,
+            "file_name": "marble 19.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 41,
+            "width": 800,
+            "height": 800,
+            "file_name": "marble 18.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 42,
+            "width": 800,
+            "height": 600,
+            "file_name": "marble 17.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 43,
+            "width": 600,
+            "height": 600,
+            "file_name": "marble 16.jpeg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 44,
+            "width": 800,
+            "height": 694,
+            "file_name": "marble 15.png",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 45,
+            "width": 800,
+            "height": 640,
+            "file_name": "marble 14.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 46,
+            "width": 800,
+            "height": 350,
+            "file_name": "marble 13.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 47,
+            "width": 500,
+            "height": 470,
+            "file_name": "marble 12.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 48,
+            "width": 800,
+            "height": 534,
+            "file_name": "marble 11.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 49,
+            "width": 800,
+            "height": 640,
+            "file_name": "marble 10.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 50,
+            "width": 800,
+            "height": 400,
+            "file_name": "marble  31.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        13,
+                        10,
+                        487,
+                        211
+                    ],
+                    "area": 80433.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        257
+                    ],
+                    "area": 36391.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        135
+                    ],
+                    "area": 7652.0
+                }
+            ],
+            "file_name": "marble31.png",
+            "image_id": 1
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        29,
+                        26,
+                        437,
+                        449
+                    ],
+                    "area": 157920.0
+                }
+            ],
+            "file_name": "marble2.png",
+            "image_id": 2
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        193,
+                        73,
+                        282,
+                        52
+                    ],
+                    "area": 5731.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        29,
+                        119,
+                        443,
+                        276
+                    ],
+                    "area": 116835.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        18,
+                        240,
+                        482,
+                        198
+                    ],
+                    "area": 25765.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        18,
+                        60,
+                        482,
+                        330
+                    ],
+                    "area": 25671.0
+                }
+            ],
+            "file_name": "marble1.png",
+            "image_id": 3
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        64,
+                        500,
+                        376
+                    ],
+                    "area": 173818.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        349,
+                        241,
+                        91
+                    ],
+                    "area": 10708.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        58,
+                        500,
+                        382
+                    ],
+                    "area": 3026.0
+                }
+            ],
+            "file_name": "marble 9.png",
+            "image_id": 4
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        2,
+                        6,
+                        404,
+                        248
+                    ],
+                    "area": 78789.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        173,
+                        432,
+                        100
+                    ],
+                    "area": 17419.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        432,
+                        177
+                    ],
+                    "area": 7079.0
+                }
+            ],
+            "file_name": "marble 8.png",
+            "image_id": 5
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        23,
+                        5,
+                        476,
+                        369
+                    ],
+                    "area": 131073.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        59
+                    ],
+                    "area": 10464.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        175,
+                        500,
+                        200
+                    ],
+                    "area": 34787.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        259
+                    ],
+                    "area": 8533.0
+                }
+            ],
+            "file_name": "marble 7.png",
+            "image_id": 6
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        2,
+                        7,
+                        798,
+                        599
+                    ],
+                    "area": 410406.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        134,
+                        800,
+                        503
+                    ],
+                    "area": 27176.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        400
+                    ],
+                    "area": 44591.0
+                }
+            ],
+            "file_name": "marble 6.png",
+            "image_id": 7
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        508,
+                        93,
+                        171,
+                        137
+                    ],
+                    "area": 16804.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        111,
+                        800,
+                        309
+                    ],
+                    "area": 109218.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6579350,
+                    "category_id": 103,
+                    "bbox": [
+                        29,
+                        274,
+                        95,
+                        41
+                    ],
+                    "area": 2526.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        122
+                    ],
+                    "area": 43848.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        0,
+                        54,
+                        800,
+                        396
+                    ],
+                    "area": 54547.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        236
+                    ],
+                    "area": 55545.0
+                }
+            ],
+            "file_name": "marble 50.png",
+            "image_id": 8
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        76,
+                        500,
+                        352
+                    ],
+                    "area": 175750.0
+                }
+            ],
+            "file_name": "marble 5.png",
+            "image_id": 9
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        68,
+                        375,
+                        390
+                    ],
+                    "area": 104289.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        128,
+                        375,
+                        372
+                    ],
+                    "area": 14911.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        375,
+                        167
+                    ],
+                    "area": 22466.0
+                }
+            ],
+            "file_name": "marble 49.png",
+            "image_id": 10
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        0,
+                        0,
+                        152,
+                        57
+                    ],
+                    "area": 7078.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        114,
+                        50,
+                        556,
+                        402
+                    ],
+                    "area": 200607.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        301,
+                        750,
+                        261
+                    ],
+                    "area": 87510.0
+                }
+            ],
+            "file_name": "marble 48.png",
+            "image_id": 11
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        42,
+                        250,
+                        166
+                    ],
+                    "area": 31877.0
+                }
+            ],
+            "file_name": "marble 47.png",
+            "image_id": 12
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        370,
+                        387,
+                        430,
+                        242
+                    ],
+                    "area": 41680.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        634
+                    ],
+                    "area": 301125.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        234,
+                        606,
+                        304,
+                        28
+                    ],
+                    "area": 6026.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        213,
+                        800,
+                        250
+                    ],
+                    "area": 94709.0
+                }
+            ],
+            "file_name": "marble 46.png",
+            "image_id": 13
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        139,
+                        600,
+                        310
+                    ],
+                    "area": 138965.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        34,
+                        0,
+                        558,
+                        63
+                    ],
+                    "area": 19514.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        61,
+                        0,
+                        539,
+                        27
+                    ],
+                    "area": 4326.0
+                }
+            ],
+            "file_name": "marble 45.png",
+            "image_id": 14
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        33,
+                        24,
+                        114,
+                        60
+                    ],
+                    "area": 5571.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        2,
+                        67,
+                        598,
+                        456
+                    ],
+                    "area": 191995.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        294,
+                        600,
+                        306
+                    ],
+                    "area": 87026.0
+                }
+            ],
+            "file_name": "marble 44.png",
+            "image_id": 15
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        0,
+                        0,
+                        508,
+                        59
+                    ],
+                    "area": 12826.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        70,
+                        752,
+                        433
+                    ],
+                    "area": 179258.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        313,
+                        800,
+                        236
+                    ],
+                    "area": 87972.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        435,
+                        106
+                    ],
+                    "area": 9938.0
+                }
+            ],
+            "file_name": "marble 43.png",
+            "image_id": 16
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        1,
+                        800,
+                        448
+                    ],
+                    "area": 171291.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        223,
+                        0,
+                        359,
+                        115
+                    ],
+                    "area": 592.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        279
+                    ],
+                    "area": 25056.0
+                }
+            ],
+            "file_name": "marble 42.png",
+            "image_id": 17
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 53402,
+                    "category_id": 113,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        60
+                    ],
+                    "area": 17694.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        17,
+                        463,
+                        368
+                    ],
+                    "area": 111696.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        101,
+                        145,
+                        399,
+                        241
+                    ],
+                    "area": 51609.0
+                }
+            ],
+            "file_name": "marble 41.png",
+            "image_id": 18
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        187
+                    ],
+                    "area": 117089.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        111,
+                        159,
+                        614,
+                        150
+                    ],
+                    "area": 39148.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        221,
+                        800,
+                        229
+                    ],
+                    "area": 117540.0
+                }
+            ],
+            "file_name": "marble 40.png",
+            "image_id": 19
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        34,
+                        8,
+                        728,
+                        592
+                    ],
+                    "area": 358939.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        255,
+                        800,
+                        345
+                    ],
+                    "area": 72696.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        600
+                    ],
+                    "area": 23702.0
+                }
+            ],
+            "file_name": "marble 4.png",
+            "image_id": 20
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        27,
+                        178,
+                        743,
+                        240
+                    ],
+                    "area": 174570.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        123,
+                        0,
+                        640,
+                        165
+                    ],
+                    "area": 73692.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        309,
+                        147,
+                        160,
+                        13
+                    ],
+                    "area": 712.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        336,
+                        800,
+                        197
+                    ],
+                    "area": 93176.0
+                }
+            ],
+            "file_name": "marble 38.png",
+            "image_id": 21
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        88,
+                        2,
+                        559,
+                        448
+                    ],
+                    "area": 215840.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        616,
+                        0,
+                        184,
+                        450
+                    ],
+                    "area": 71310.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        295,
+                        764,
+                        155
+                    ],
+                    "area": 31467.0
+                }
+            ],
+            "file_name": "marble 37.png",
+            "image_id": 22
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        1,
+                        602,
+                        531
+                    ],
+                    "area": 238342.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        532
+                    ],
+                    "area": 51972.0
+                }
+            ],
+            "file_name": "marble 36.png",
+            "image_id": 23
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        200
+                    ],
+                    "area": 43718.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        0,
+                        300,
+                        163
+                    ],
+                    "area": 234.0
+                }
+            ],
+            "file_name": "marble 35.png",
+            "image_id": 24
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        41,
+                        36,
+                        741,
+                        413
+                    ],
+                    "area": 262476.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        210,
+                        800,
+                        240
+                    ],
+                    "area": 43977.0
+                }
+            ],
+            "file_name": "marble 34.png",
+            "image_id": 25
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        359
+                    ],
+                    "area": 223260.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        322,
+                        800,
+                        52
+                    ],
+                    "area": 27942.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        357
+                    ],
+                    "area": 32489.0
+                }
+            ],
+            "file_name": "marble 33.png",
+            "image_id": 26
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        167,
+                        31,
+                        385,
+                        331
+                    ],
+                    "area": 97081.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        61,
+                        97,
+                        231,
+                        273
+                    ],
+                    "area": 25671.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        30,
+                        0,
+                        711,
+                        370
+                    ],
+                    "area": 90883.0
+                }
+            ],
+            "file_name": "marble 32.png",
+            "image_id": 27
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        23,
+                        24,
+                        492,
+                        384
+                    ],
+                    "area": 174172.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        9,
+                        0,
+                        541,
+                        68
+                    ],
+                    "area": 90.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        0,
+                        0,
+                        550,
+                        120
+                    ],
+                    "area": 23521.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        417,
+                        0,
+                        20,
+                        15
+                    ],
+                    "area": 142.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        184,
+                        550,
+                        228
+                    ],
+                    "area": 12702.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        184,
+                        550,
+                        228
+                    ],
+                    "area": 702.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        27,
+                        550,
+                        221
+                    ],
+                    "area": 8345.0
+                }
+            ],
+            "file_name": "marble 30.png",
+            "image_id": 28
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        658,
+                        55,
+                        74,
+                        72
+                    ],
+                    "area": 3171.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        48,
+                        53,
+                        532,
+                        541
+                    ],
+                    "area": 221272.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        327,
+                        732,
+                        275
+                    ],
+                    "area": 69656.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        220,
+                        49,
+                        107
+                    ],
+                    "area": 4564.0
+                }
+            ],
+            "file_name": "marble 3.png",
+            "image_id": 29
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        6,
+                        12,
+                        317,
+                        242
+                    ],
+                    "area": 64647.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 12081370,
+                    "category_id": 107,
+                    "bbox": [
+                        7,
+                        11,
+                        44,
+                        34
+                    ],
+                    "area": 1390.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        113,
+                        341,
+                        142
+                    ],
+                    "area": 6917.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        341,
+                        185
+                    ],
+                    "area": 4235.0
+                }
+            ],
+            "file_name": "marble 29.png",
+            "image_id": 30
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        560,
+                        116
+                    ],
+                    "area": 52445.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        470,
+                        105,
+                        25,
+                        19
+                    ],
+                    "area": 257.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        54,
+                        123,
+                        438,
+                        196
+                    ],
+                    "area": 81671.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        40,
+                        80,
+                        520,
+                        55
+                    ],
+                    "area": 6504.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        238,
+                        560,
+                        182
+                    ],
+                    "area": 52704.0
+                }
+            ],
+            "file_name": "marble 28.png",
+            "image_id": 31
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        41,
+                        72,
+                        415,
+                        378
+                    ],
+                    "area": 116674.0
+                }
+            ],
+            "file_name": "marble 27.png",
+            "image_id": 32
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        16,
+                        69,
+                        770,
+                        490
+                    ],
+                    "area": 344578.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        249,
+                        800,
+                        351
+                    ],
+                    "area": 9696.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        3,
+                        0,
+                        797,
+                        552
+                    ],
+                    "area": 37795.0
+                }
+            ],
+            "file_name": "marble 26.png",
+            "image_id": 33
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        23,
+                        45,
+                        777,
+                        437
+                    ],
+                    "area": 313550.0
+                }
+            ],
+            "file_name": "marble 25.png",
+            "image_id": 34
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        24,
+                        2,
+                        771,
+                        537
+                    ],
+                    "area": 346461.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        57,
+                        0,
+                        504,
+                        57
+                    ],
+                    "area": 16117.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        24,
+                        0,
+                        776,
+                        597
+                    ],
+                    "area": 11824.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        105,
+                        54,
+                        339
+                    ],
+                    "area": 13229.0
+                }
+            ],
+            "file_name": "marble 24.png",
+            "image_id": 35
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        462
+                    ],
+                    "area": 21614.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        11,
+                        16,
+                        759,
+                        426
+                    ],
+                    "area": 288590.0
+                }
+            ],
+            "file_name": "marble 23.png",
+            "image_id": 36
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        21,
+                        0,
+                        410,
+                        500
+                    ],
+                    "area": 164137.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        5,
+                        0,
+                        495,
+                        500
+                    ],
+                    "area": 13396.0
+                }
+            ],
+            "file_name": "marble 22.png",
+            "image_id": 37
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        660,
+                        9,
+                        56,
+                        54
+                    ],
+                    "area": 1912.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        44,
+                        1,
+                        536,
+                        538
+                    ],
+                    "area": 221419.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        274,
+                        716,
+                        268
+                    ],
+                    "area": 61293.0
+                }
+            ],
+            "file_name": "marble 21.png",
+            "image_id": 38
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        1,
+                        17,
+                        249,
+                        232
+                    ],
+                    "area": 48930.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        7,
+                        250,
+                        242
+                    ],
+                    "area": 544.0
+                }
+            ],
+            "file_name": "marble 20.png",
+            "image_id": 39
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        27,
+                        14,
+                        461,
+                        361
+                    ],
+                    "area": 129546.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        422,
+                        212,
+                        78,
+                        163
+                    ],
+                    "area": 6192.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        375
+                    ],
+                    "area": 25007.0
+                }
+            ],
+            "file_name": "marble 19.png",
+            "image_id": 40
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        36,
+                        163,
+                        707,
+                        594
+                    ],
+                    "area": 386660.0
+                }
+            ],
+            "file_name": "marble 18.png",
+            "image_id": 41
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        30,
+                        35,
+                        650,
+                        565
+                    ],
+                    "area": 280854.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        674,
+                        108,
+                        126,
+                        327
+                    ],
+                    "area": 22548.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        600
+                    ],
+                    "area": 105136.0
+                }
+            ],
+            "file_name": "marble 17.png",
+            "image_id": 42
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        0,
+                        92,
+                        600,
+                        501
+                    ],
+                    "area": 201972.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        126
+                    ],
+                    "area": 60280.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        231,
+                        600,
+                        369
+                    ],
+                    "area": 72688.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        78,
+                        600,
+                        369
+                    ],
+                    "area": 16225.0
+                }
+            ],
+            "file_name": "marble 16.png",
+            "image_id": 43
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        17,
+                        26,
+                        745,
+                        658
+                    ],
+                    "area": 407971.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        0,
+                        0,
+                        492,
+                        54
+                    ],
+                    "area": 12043.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        465,
+                        800,
+                        229
+                    ],
+                    "area": 57949.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        473
+                    ],
+                    "area": 33127.0
+                }
+            ],
+            "file_name": "marble 15.png",
+            "image_id": 44
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        2,
+                        111,
+                        796,
+                        517
+                    ],
+                    "area": 380772.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        640
+                    ],
+                    "area": 69603.0
+                }
+            ],
+            "file_name": "marble 14.png",
+            "image_id": 45
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        701,
+                        0,
+                        99,
+                        350
+                    ],
+                    "area": 28405.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        26,
+                        9,
+                        676,
+                        341
+                    ],
+                    "area": 217344.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        350
+                    ],
+                    "area": 23183.0
+                }
+            ],
+            "file_name": "marble 13.png",
+            "image_id": 46
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        0,
+                        0,
+                        456,
+                        50
+                    ],
+                    "area": 2151.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        3,
+                        57,
+                        493,
+                        251
+                    ],
+                    "area": 103198.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        259,
+                        500,
+                        117
+                    ],
+                    "area": 32297.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        500,
+                        311
+                    ],
+                    "area": 29564.0
+                }
+            ],
+            "file_name": "marble 12.png",
+            "image_id": 47
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        38,
+                        49,
+                        730,
+                        439
+                    ],
+                    "area": 304242.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        353,
+                        800,
+                        181
+                    ],
+                    "area": 42126.0
+                }
+            ],
+            "file_name": "marble 11.png",
+            "image_id": 48
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        2,
+                        31,
+                        798,
+                        547
+                    ],
+                    "area": 410226.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        630
+                    ],
+                    "area": 31554.0
+                }
+            ],
+            "file_name": "marble 10.png",
+            "image_id": 49
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6061312,
+                    "category_id": 26,
+                    "bbox": [
+                        1,
+                        146,
+                        751,
+                        254
+                    ],
+                    "area": 107596.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        350
+                    ],
+                    "area": 98715.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        62,
+                        800,
+                        338
+                    ],
+                    "area": 6130.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        432,
+                        108
+                    ],
+                    "area": 27248.0
+                }
+            ],
+            "file_name": "marble  31.png",
+            "image_id": 50
+        }
+    ]
+}
