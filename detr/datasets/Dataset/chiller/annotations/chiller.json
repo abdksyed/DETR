@@ -1,0 +1,2683 @@
+{
+    "licenses": [
+        {
+            "name": "",
+            "id": 0,
+            "url": ""
+        }
+    ],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "aac_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                20,
+                60
+            ]
+        },
+        {
+            "id": 2,
+            "name": "adhesives",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                119,
+                11,
+                32
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ahus",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                142
+            ]
+        },
+        {
+            "id": 4,
+            "name": "aluminium_frames_for_false_ceiling",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                230
+            ]
+        },
+        {
+            "id": 5,
+            "name": "chiller",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                106,
+                0,
+                228
+            ]
+        },
+        {
+            "id": 6,
+            "name": "concrete_mixer_machine",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                60,
+                100
+            ]
+        },
+        {
+            "id": 7,
+            "name": "concrete_pump",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                80,
+                100
+            ]
+        },
+        {
+            "id": 8,
+            "name": "control_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                70
+            ]
+        },
+        {
+            "id": 9,
+            "name": "cu_piping",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                0,
+                192
+            ]
+        },
+        {
+            "id": 10,
+            "name": "distribution_transformer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 11,
+            "name": "dump_truck___tipper_truck",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                100,
+                170,
+                30
+            ]
+        },
+        {
+            "id": 12,
+            "name": "emulsion_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                220,
+                220,
+                0
+            ]
+        },
+        {
+            "id": 13,
+            "name": "enamel_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                175,
+                116,
+                175
+            ]
+        },
+        {
+            "id": 14,
+            "name": "fine_aggregate",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                250,
+                0,
+                30
+            ]
+        },
+        {
+            "id": 15,
+            "name": "fire_buckets",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                165,
+                42,
+                42
+            ]
+        },
+        {
+            "id": 16,
+            "name": "fire_extinguishers",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                77,
+                255
+            ]
+        },
+        {
+            "id": 17,
+            "name": "glass_wool",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                226,
+                252
+            ]
+        },
+        {
+            "id": 18,
+            "name": "grader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                182,
+                182,
+                255
+            ]
+        },
+        {
+            "id": 19,
+            "name": "hoist",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                82,
+                0
+            ]
+        },
+        {
+            "id": 20,
+            "name": "hollow_concrete_blocks",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                120,
+                166,
+                157
+            ]
+        },
+        {
+            "id": 21,
+            "name": "hot_mix_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                110,
+                76,
+                0
+            ]
+        },
+        {
+            "id": 22,
+            "name": "hydra_crane",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                57,
+                255
+            ]
+        },
+        {
+            "id": 23,
+            "name": "interlocked_switched_socket",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                199,
+                100,
+                0
+            ]
+        },
+        {
+            "id": 24,
+            "name": "junction_box",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                72,
+                0,
+                118
+            ]
+        },
+        {
+            "id": 25,
+            "name": "lime",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                179,
+                240
+            ]
+        },
+        {
+            "id": 26,
+            "name": "marble",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                125,
+                92
+            ]
+        },
+        {
+            "id": 27,
+            "name": "metal_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                209,
+                0,
+                151
+            ]
+        },
+        {
+            "id": 28,
+            "name": "pipe_fittings",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                188,
+                208,
+                182
+            ]
+        },
+        {
+            "id": 29,
+            "name": "rcc_hume_pipes",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                220,
+                176
+            ]
+        },
+        {
+            "id": 30,
+            "name": "refrigerant_gas",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                99,
+                164
+            ]
+        },
+        {
+            "id": 31,
+            "name": "river_sand",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                92,
+                0,
+                73
+            ]
+        },
+        {
+            "id": 32,
+            "name": "rmc_batching_plant",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                133,
+                129,
+                255
+            ]
+        },
+        {
+            "id": 33,
+            "name": "rmu_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                78,
+                180,
+                255
+            ]
+        },
+        {
+            "id": 34,
+            "name": "sanitary_fixtures",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                0,
+                228,
+                0
+            ]
+        },
+        {
+            "id": 35,
+            "name": "skid_steer_loader_(bobcat)",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                174,
+                255,
+                243
+            ]
+        },
+        {
+            "id": 36,
+            "name": "smoke_detectors",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                45,
+                89,
+                255
+            ]
+        },
+        {
+            "id": 37,
+            "name": "split_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                134,
+                134,
+                103
+            ]
+        },
+        {
+            "id": 38,
+            "name": "structural_steel_-_channel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                145,
+                148,
+                174
+            ]
+        },
+        {
+            "id": 39,
+            "name": "switch_boards_and_switches",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                255,
+                208,
+                186
+            ]
+        },
+        {
+            "id": 40,
+            "name": "texture_paint",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                197,
+                226,
+                255
+            ]
+        },
+        {
+            "id": 41,
+            "name": "threaded_rod",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                171,
+                134,
+                1
+            ]
+        },
+        {
+            "id": 42,
+            "name": "transit_mixer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                109,
+                63,
+                54
+            ]
+        },
+        {
+            "id": 43,
+            "name": "vcb_panel",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                207,
+                138,
+                255
+            ]
+        },
+        {
+            "id": 44,
+            "name": "vitrified_tiles",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                151,
+                0,
+                95
+            ]
+        },
+        {
+            "id": 45,
+            "name": "vrf_units",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                9,
+                80,
+                61
+            ]
+        },
+        {
+            "id": 46,
+            "name": "water_tank",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                84,
+                105,
+                51
+            ]
+        },
+        {
+            "id": 47,
+            "name": "wheel_loader",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                74,
+                65,
+                105
+            ]
+        },
+        {
+            "id": 48,
+            "name": "wood_primer",
+            "supercategory": "",
+            "isthing": 1,
+            "color": [
+                166,
+                196,
+                102
+            ]
+        },
+        {
+            "id": 100,
+            "name": "building",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                82,
+                18,
+                128
+            ]
+        },
+        {
+            "id": 101,
+            "name": "ceiling",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                255,
+                128
+            ]
+        },
+        {
+            "id": 102,
+            "name": "floor",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                147,
+                211,
+                203
+            ]
+        },
+        {
+            "id": 103,
+            "name": "food",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                150,
+                100,
+                100
+            ]
+        },
+        {
+            "id": 104,
+            "name": "furniture",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                168,
+                171,
+                172
+            ]
+        },
+        {
+            "id": 105,
+            "name": "ground",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                146,
+                112,
+                198
+            ]
+        },
+        {
+            "id": 106,
+            "name": "plant",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                92,
+                136,
+                89
+            ]
+        },
+        {
+            "id": 107,
+            "name": "raw_material",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                218,
+                88,
+                184
+            ]
+        },
+        {
+            "id": 108,
+            "name": "sky",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                241,
+                129,
+                0
+            ]
+        },
+        {
+            "id": 109,
+            "name": "solids",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                217,
+                17,
+                255
+            ]
+        },
+        {
+            "id": 110,
+            "name": "structural",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                124,
+                74,
+                181
+            ]
+        },
+        {
+            "id": 111,
+            "name": "textile",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                70,
+                70,
+                70
+            ]
+        },
+        {
+            "id": 112,
+            "name": "wall",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                255,
+                228,
+                255
+            ]
+        },
+        {
+            "id": 113,
+            "name": "water",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                154,
+                208,
+                0
+            ]
+        },
+        {
+            "id": 114,
+            "name": "window",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                193,
+                0,
+                92
+            ]
+        },
+        {
+            "id": 115,
+            "name": "thing",
+            "supercategory": "",
+            "isthing": 0,
+            "color": [
+                210,
+                170,
+                100
+            ]
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 495,
+            "height": 640,
+            "file_name": "chiller (9).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 2,
+            "width": 800,
+            "height": 582,
+            "file_name": "chiller (8).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 3,
+            "width": 525,
+            "height": 295,
+            "file_name": "chiller (7).png",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 4,
+            "width": 800,
+            "height": 664,
+            "file_name": "chiller (65).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 5,
+            "width": 300,
+            "height": 225,
+            "file_name": "chiller (64).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 6,
+            "width": 220,
+            "height": 147,
+            "file_name": "chiller (63).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 7,
+            "width": 720,
+            "height": 568,
+            "file_name": "chiller (62).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 8,
+            "width": 600,
+            "height": 400,
+            "file_name": "chiller (61).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 9,
+            "width": 704,
+            "height": 606,
+            "file_name": "chiller (60).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 10,
+            "width": 531,
+            "height": 353,
+            "file_name": "chiller (6).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 11,
+            "width": 513,
+            "height": 372,
+            "file_name": "chiller (59).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 12,
+            "width": 500,
+            "height": 500,
+            "file_name": "chiller (58).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 13,
+            "width": 250,
+            "height": 195,
+            "file_name": "chiller (54).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 14,
+            "width": 300,
+            "height": 356,
+            "file_name": "chiller (50).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 15,
+            "width": 800,
+            "height": 282,
+            "file_name": "chiller (5).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 16,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (48).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 17,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (47).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 18,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (46).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 19,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (44).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 20,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (43).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 21,
+            "width": 800,
+            "height": 450,
+            "file_name": "chiller (41).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 22,
+            "width": 450,
+            "height": 450,
+            "file_name": "chiller (4).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 23,
+            "width": 800,
+            "height": 400,
+            "file_name": "chiller (39).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 24,
+            "width": 800,
+            "height": 322,
+            "file_name": "chiller (35).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 25,
+            "width": 559,
+            "height": 440,
+            "file_name": "chiller (34).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 26,
+            "width": 600,
+            "height": 341,
+            "file_name": "chiller (33).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 27,
+            "width": 600,
+            "height": 450,
+            "file_name": "chiller (31).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 28,
+            "width": 360,
+            "height": 360,
+            "file_name": "chiller (30).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 29,
+            "width": 699,
+            "height": 393,
+            "file_name": "chiller (3).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 30,
+            "width": 800,
+            "height": 280,
+            "file_name": "chiller (29).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 31,
+            "width": 800,
+            "height": 460,
+            "file_name": "chiller (27).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 32,
+            "width": 733,
+            "height": 550,
+            "file_name": "chiller (26).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 33,
+            "width": 800,
+            "height": 356,
+            "file_name": "chiller (23).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 34,
+            "width": 638,
+            "height": 479,
+            "file_name": "chiller (21).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 35,
+            "width": 800,
+            "height": 489,
+            "file_name": "chiller (20).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 36,
+            "width": 275,
+            "height": 188,
+            "file_name": "chiller (2).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 37,
+            "width": 800,
+            "height": 489,
+            "file_name": "chiller (19).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 38,
+            "width": 645,
+            "height": 350,
+            "file_name": "chiller (18).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 39,
+            "width": 800,
+            "height": 445,
+            "file_name": "chiller (17).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 40,
+            "width": 800,
+            "height": 600,
+            "file_name": "chiller (14).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 41,
+            "width": 500,
+            "height": 375,
+            "file_name": "chiller (13).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 42,
+            "width": 536,
+            "height": 361,
+            "file_name": "chiller (12).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 43,
+            "width": 800,
+            "height": 800,
+            "file_name": "chiller (11).jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 44,
+            "width": 600,
+            "height": 400,
+            "file_name": "chiller (10).png",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 45,
+            "width": 800,
+            "height": 533,
+            "file_name": "chiller (1).jpeg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        70,
+                        11,
+                        390,
+                        272
+                    ],
+                    "area": 70826.0
+                }
+            ],
+            "file_name": "chiller (9).png",
+            "image_id": 1
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        70,
+                        8,
+                        668,
+                        560
+                    ],
+                    "area": 284418.0
+                }
+            ],
+            "file_name": "chiller (8).png",
+            "image_id": 2
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        97,
+                        18,
+                        319,
+                        256
+                    ],
+                    "area": 64966.0
+                }
+            ],
+            "file_name": "chiller (7).png",
+            "image_id": 3
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        548
+                    ],
+                    "area": 54509.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        601
+                    ],
+                    "area": 65679.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        77,
+                        319,
+                        30,
+                        50
+                    ],
+                    "area": 724.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11881084,
+                    "category_id": 110,
+                    "bbox": [
+                        0,
+                        120,
+                        113,
+                        43
+                    ],
+                    "area": 3086.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        601
+                    ],
+                    "area": 141934.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        107,
+                        126,
+                        581,
+                        239
+                    ],
+                    "area": 76527.0
+                }
+            ],
+            "file_name": "chiller (65).png",
+            "image_id": 4
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        143,
+                        0,
+                        20,
+                        16
+                    ],
+                    "area": 213.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        67,
+                        46,
+                        233,
+                        179
+                    ],
+                    "area": 25330.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        49,
+                        225
+                    ],
+                    "area": 7633.0
+                }
+            ],
+            "file_name": "chiller (64).png",
+            "image_id": 5
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        220,
+                        35
+                    ],
+                    "area": 4940.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        24,
+                        26,
+                        174,
+                        115
+                    ],
+                    "area": 15851.0
+                }
+            ],
+            "file_name": "chiller (63).png",
+            "image_id": 6
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        6,
+                        3,
+                        710,
+                        563
+                    ],
+                    "area": 281253.0
+                }
+            ],
+            "file_name": "chiller (62).png",
+            "image_id": 7
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        398
+                    ],
+                    "area": 152321.0
+                }
+            ],
+            "file_name": "chiller (61).png",
+            "image_id": 8
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        143,
+                        81,
+                        459,
+                        338
+                    ],
+                    "area": 92257.0
+                }
+            ],
+            "file_name": "chiller (60).png",
+            "image_id": 9
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        531,
+                        156
+                    ],
+                    "area": 35319.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11881084,
+                    "category_id": 110,
+                    "bbox": [
+                        0,
+                        38,
+                        51,
+                        204
+                    ],
+                    "area": 2783.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        200,
+                        531,
+                        153
+                    ],
+                    "area": 44242.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        11,
+                        32,
+                        520,
+                        287
+                    ],
+                    "area": 97558.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        155,
+                        313,
+                        8,
+                        2
+                    ],
+                    "area": 10.0
+                }
+            ],
+            "file_name": "chiller (6).png",
+            "image_id": 10
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        137,
+                        13,
+                        315,
+                        263
+                    ],
+                    "area": 52551.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        513,
+                        255
+                    ],
+                    "area": 22641.0
+                }
+            ],
+            "file_name": "chiller (59).png",
+            "image_id": 11
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        2,
+                        41,
+                        493,
+                        434
+                    ],
+                    "area": 147637.0
+                }
+            ],
+            "file_name": "chiller (58).png",
+            "image_id": 12
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        17,
+                        9,
+                        216,
+                        173
+                    ],
+                    "area": 29626.0
+                }
+            ],
+            "file_name": "chiller (54).png",
+            "image_id": 13
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        27,
+                        7,
+                        249,
+                        241
+                    ],
+                    "area": 36653.0
+                }
+            ],
+            "file_name": "chiller (50).png",
+            "image_id": 14
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        10,
+                        40,
+                        740,
+                        242
+                    ],
+                    "area": 107514.0
+                }
+            ],
+            "file_name": "chiller (5).png",
+            "image_id": 15
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        36,
+                        177,
+                        738,
+                        162
+                    ],
+                    "area": 49278.0
+                }
+            ],
+            "file_name": "chiller (48).png",
+            "image_id": 16
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        437,
+                        103,
+                        352,
+                        299
+                    ],
+                    "area": 79961.0
+                }
+            ],
+            "file_name": "chiller (47).png",
+            "image_id": 17
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        103,
+                        781,
+                        339
+                    ],
+                    "area": 132981.0
+                }
+            ],
+            "file_name": "chiller (46).png",
+            "image_id": 18
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        46,
+                        196,
+                        688,
+                        185
+                    ],
+                    "area": 62702.0
+                }
+            ],
+            "file_name": "chiller (44).png",
+            "image_id": 19
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        3,
+                        87,
+                        796,
+                        363
+                    ],
+                    "area": 168255.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        450
+                    ],
+                    "area": 180413.0
+                }
+            ],
+            "file_name": "chiller (43).png",
+            "image_id": 20
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        394,
+                        136,
+                        354,
+                        180
+                    ],
+                    "area": 40069.0
+                }
+            ],
+            "file_name": "chiller (41).png",
+            "image_id": 21
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        69,
+                        108,
+                        381,
+                        342
+                    ],
+                    "area": 104034.0
+                }
+            ],
+            "file_name": "chiller (4).png",
+            "image_id": 22
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        10,
+                        20,
+                        787,
+                        373
+                    ],
+                    "area": 213029.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        400
+                    ],
+                    "area": 106320.0
+                }
+            ],
+            "file_name": "chiller (39).png",
+            "image_id": 23
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        26,
+                        0,
+                        175,
+                        21
+                    ],
+                    "area": 2339.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        2,
+                        76,
+                        78,
+                        96
+                    ],
+                    "area": 5995.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        230,
+                        106,
+                        92
+                    ],
+                    "area": 7855.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        322
+                    ],
+                    "area": 235478.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        246
+                    ],
+                    "area": 3270.0
+                }
+            ],
+            "file_name": "chiller (35).png",
+            "image_id": 24
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        559,
+                        262
+                    ],
+                    "area": 7274.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        533,
+                        154,
+                        26,
+                        97
+                    ],
+                    "area": 2289.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        297,
+                        559,
+                        143
+                    ],
+                    "area": 7037.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        15,
+                        0,
+                        519,
+                        439
+                    ],
+                    "area": 223082.0
+                }
+            ],
+            "file_name": "chiller (34).png",
+            "image_id": 25
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        0,
+                        0,
+                        518,
+                        99
+                    ],
+                    "area": 5728.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        287
+                    ],
+                    "area": 17264.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        0,
+                        161,
+                        600,
+                        114
+                    ],
+                    "area": 4878.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        226,
+                        600,
+                        115
+                    ],
+                    "area": 33372.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        37,
+                        0,
+                        563,
+                        321
+                    ],
+                    "area": 116906.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        461,
+                        67,
+                        139,
+                        162
+                    ],
+                    "area": 17749.0
+                }
+            ],
+            "file_name": "chiller (33).png",
+            "image_id": 26
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        450
+                    ],
+                    "area": 54793.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        3,
+                        600,
+                        447
+                    ],
+                    "area": 105987.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        24,
+                        5,
+                        576,
+                        290
+                    ],
+                    "area": 97790.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        412,
+                        104,
+                        38
+                    ],
+                    "area": 2219.0
+                }
+            ],
+            "file_name": "chiller (31).png",
+            "image_id": 27
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        41,
+                        52,
+                        278,
+                        264
+                    ],
+                    "area": 52261.0
+                }
+            ],
+            "file_name": "chiller (30).png",
+            "image_id": 28
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        0,
+                        699,
+                        393
+                    ],
+                    "area": 254406.0
+                }
+            ],
+            "file_name": "chiller (3).png",
+            "image_id": 29
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        31,
+                        0,
+                        287,
+                        133
+                    ],
+                    "area": 8334.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        280
+                    ],
+                    "area": 41896.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        79,
+                        144,
+                        86,
+                        117
+                    ],
+                    "area": 2533.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        0,
+                        258,
+                        140
+                    ],
+                    "area": 14573.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        107,
+                        0,
+                        581,
+                        210
+                    ],
+                    "area": 73291.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        108,
+                        800,
+                        172
+                    ],
+                    "area": 46717.0
+                }
+            ],
+            "file_name": "chiller (29).png",
+            "image_id": 30
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        51,
+                        0,
+                        724,
+                        120
+                    ],
+                    "area": 45108.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        315,
+                        777,
+                        145
+                    ],
+                    "area": 56463.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        139,
+                        62,
+                        464,
+                        371
+                    ],
+                    "area": 102325.0
+                }
+            ],
+            "file_name": "chiller (27).png",
+            "image_id": 31
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        0,
+                        0,
+                        399,
+                        88
+                    ],
+                    "area": 19820.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        116,
+                        385,
+                        604,
+                        165
+                    ],
+                    "area": 31404.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        18,
+                        644,
+                        531
+                    ],
+                    "area": 212302.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        399,
+                        0,
+                        334,
+                        201
+                    ],
+                    "area": 14486.0
+                }
+            ],
+            "file_name": "chiller (26).png",
+            "image_id": 32
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        7,
+                        54,
+                        791,
+                        286
+                    ],
+                    "area": 144603.0
+                }
+            ],
+            "file_name": "chiller (23).png",
+            "image_id": 33
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 6029505,
+                    "category_id": 114,
+                    "bbox": [
+                        0,
+                        0,
+                        638,
+                        479
+                    ],
+                    "area": 178428.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        207,
+                        634,
+                        270
+                    ],
+                    "area": 117800.0
+                }
+            ],
+            "file_name": "chiller (21).png",
+            "image_id": 34
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        56,
+                        43,
+                        690,
+                        415
+                    ],
+                    "area": 211601.0
+                }
+            ],
+            "file_name": "chiller (20).png",
+            "image_id": 35
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        103,
+                        275,
+                        85
+                    ],
+                    "area": 4769.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        39,
+                        21,
+                        225,
+                        167
+                    ],
+                    "area": 21647.0
+                }
+            ],
+            "file_name": "chiller (2).png",
+            "image_id": 36
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 8454143,
+                    "category_id": 101,
+                    "bbox": [
+                        28,
+                        0,
+                        760,
+                        184
+                    ],
+                    "area": 93735.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 104,
+                    "bbox": [
+                        15,
+                        0,
+                        773,
+                        355
+                    ],
+                    "area": 9038.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        380,
+                        800,
+                        109
+                    ],
+                    "area": 63571.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        141,
+                        116,
+                        464,
+                        329
+                    ],
+                    "area": 72017.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        32,
+                        800,
+                        389
+                    ],
+                    "area": 65634.0
+                }
+            ],
+            "file_name": "chiller (19).png",
+            "image_id": 37
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        611,
+                        55
+                    ],
+                    "area": 16839.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        226,
+                        548,
+                        124
+                    ],
+                    "area": 21918.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        159,
+                        0,
+                        484,
+                        339
+                    ],
+                    "area": 119462.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 112,
+                    "bbox": [
+                        0,
+                        16,
+                        549,
+                        280
+                    ],
+                    "area": 15648.0
+                }
+            ],
+            "file_name": "chiller (18).png",
+            "image_id": 38
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        7,
+                        124,
+                        787,
+                        274
+                    ],
+                    "area": 146636.0
+                }
+            ],
+            "file_name": "chiller (17).png",
+            "image_id": 39
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 12081370,
+                    "category_id": 107,
+                    "bbox": [
+                        231,
+                        126,
+                        54,
+                        24
+                    ],
+                    "area": 1179.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13357971,
+                    "category_id": 102,
+                    "bbox": [
+                        0,
+                        363,
+                        800,
+                        237
+                    ],
+                    "area": 58945.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        0,
+                        49,
+                        719,
+                        550
+                    ],
+                    "area": 264427.0
+                }
+            ],
+            "file_name": "chiller (14).png",
+            "image_id": 40
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        167,
+                        42
+                    ],
+                    "area": 5124.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 106,
+                    "bbox": [
+                        143,
+                        0,
+                        49,
+                        81
+                    ],
+                    "area": 2374.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        209,
+                        500,
+                        166
+                    ],
+                    "area": 48425.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        50,
+                        3,
+                        409,
+                        372
+                    ],
+                    "area": 83387.0
+                }
+            ],
+            "file_name": "chiller (13).png",
+            "image_id": 41
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        23,
+                        16,
+                        496,
+                        327
+                    ],
+                    "area": 89095.0
+                }
+            ],
+            "file_name": "chiller (12).png",
+            "image_id": 42
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        47,
+                        191,
+                        694,
+                        412
+                    ],
+                    "area": 170730.0
+                }
+            ],
+            "file_name": "chiller (11).png",
+            "image_id": 43
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        192,
+                        134,
+                        233,
+                        188
+                    ],
+                    "area": 27274.0
+                }
+            ],
+            "file_name": "chiller (10).png",
+            "image_id": 44
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 108,
+                    "bbox": [
+                        0,
+                        0,
+                        800,
+                        243
+                    ],
+                    "area": 106629.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 53402,
+                    "category_id": 113,
+                    "bbox": [
+                        651,
+                        280,
+                        136,
+                        16
+                    ],
+                    "area": 840.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 100,
+                    "bbox": [
+                        0,
+                        62,
+                        800,
+                        311
+                    ],
+                    "area": 31542.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 105,
+                    "bbox": [
+                        0,
+                        293,
+                        800,
+                        240
+                    ],
+                    "area": 60653.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 14942314,
+                    "category_id": 5,
+                    "bbox": [
+                        27,
+                        10,
+                        574,
+                        440
+                    ],
+                    "area": 131617.0
+                }
+            ],
+            "file_name": "chiller (1).png",
+            "image_id": 45
+        }
+    ]
+}
