@@ -16,7 +16,7 @@
     },
     "categories": [
         {
-            "id": 1,
+            "id": 0,
             "name": "aac_blocks",
             "supercategory": "",
             "isthing": 1,
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 1,
             "name": "adhesives",
             "supercategory": "",
             "isthing": 1,
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "ahus",
             "supercategory": "",
             "isthing": 1,
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "aluminium_frames_for_false_ceiling",
             "supercategory": "",
             "isthing": 1,
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "chiller",
             "supercategory": "",
             "isthing": 1,
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "concrete_mixer_machine",
             "supercategory": "",
             "isthing": 1,
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "concrete_pump",
             "supercategory": "",
             "isthing": 1,
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "control_panel",
             "supercategory": "",
             "isthing": 1,
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "cu_piping",
             "supercategory": "",
             "isthing": 1,
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "distribution_transformer",
             "supercategory": "",
             "isthing": 1,
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "dump_truck___tipper_truck",
             "supercategory": "",
             "isthing": 1,
@@ -137,7 +137,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": 11,
             "name": "emulsion_paint",
             "supercategory": "",
             "isthing": 1,
@@ -148,7 +148,7 @@
             ]
         },
         {
-            "id": 13,
+            "id": 12,
             "name": "enamel_paint",
             "supercategory": "",
             "isthing": 1,
@@ -159,7 +159,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": 13,
             "name": "fine_aggregate",
             "supercategory": "",
             "isthing": 1,
@@ -170,7 +170,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": 14,
             "name": "fire_buckets",
             "supercategory": "",
             "isthing": 1,
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "id": 16,
+            "id": 15,
             "name": "fire_extinguishers",
             "supercategory": "",
             "isthing": 1,
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "id": 17,
+            "id": 16,
             "name": "glass_wool",
             "supercategory": "",
             "isthing": 1,
@@ -203,7 +203,7 @@
             ]
         },
         {
-            "id": 18,
+            "id": 17,
             "name": "grader",
             "supercategory": "",
             "isthing": 1,
@@ -214,7 +214,7 @@
             ]
         },
         {
-            "id": 19,
+            "id": 18,
             "name": "hoist",
             "supercategory": "",
             "isthing": 1,
@@ -225,7 +225,7 @@
             ]
         },
         {
-            "id": 20,
+            "id": 19,
             "name": "hollow_concrete_blocks",
             "supercategory": "",
             "isthing": 1,
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "id": 21,
+            "id": 20,
             "name": "hot_mix_plant",
             "supercategory": "",
             "isthing": 1,
@@ -247,7 +247,7 @@
             ]
         },
         {
-            "id": 22,
+            "id": 21,
             "name": "hydra_crane",
             "supercategory": "",
             "isthing": 1,
@@ -258,7 +258,7 @@
             ]
         },
         {
-            "id": 23,
+            "id": 22,
             "name": "interlocked_switched_socket",
             "supercategory": "",
             "isthing": 1,
@@ -269,7 +269,7 @@
             ]
         },
         {
-            "id": 24,
+            "id": 23,
             "name": "junction_box",
             "supercategory": "",
             "isthing": 1,
@@ -280,7 +280,7 @@
             ]
         },
         {
-            "id": 25,
+            "id": 24,
             "name": "lime",
             "supercategory": "",
             "isthing": 1,
@@ -291,7 +291,7 @@
             ]
         },
         {
-            "id": 26,
+            "id": 25,
             "name": "marble",
             "supercategory": "",
             "isthing": 1,
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": 26,
             "name": "metal_primer",
             "supercategory": "",
             "isthing": 1,
@@ -313,7 +313,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": 27,
             "name": "pipe_fittings",
             "supercategory": "",
             "isthing": 1,
@@ -324,7 +324,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": 28,
             "name": "rcc_hume_pipes",
             "supercategory": "",
             "isthing": 1,
@@ -335,7 +335,7 @@
             ]
         },
         {
-            "id": 30,
+            "id": 29,
             "name": "refrigerant_gas",
             "supercategory": "",
             "isthing": 1,
@@ -346,7 +346,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": 30,
             "name": "river_sand",
             "supercategory": "",
             "isthing": 1,
@@ -357,7 +357,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": 31,
             "name": "rmc_batching_plant",
             "supercategory": "",
             "isthing": 1,
@@ -368,7 +368,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": 32,
             "name": "rmu_units",
             "supercategory": "",
             "isthing": 1,
@@ -379,7 +379,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": 33,
             "name": "sanitary_fixtures",
             "supercategory": "",
             "isthing": 1,
@@ -390,7 +390,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": 34,
             "name": "skid_steer_loader_(bobcat)",
             "supercategory": "",
             "isthing": 1,
@@ -401,7 +401,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": 35,
             "name": "smoke_detectors",
             "supercategory": "",
             "isthing": 1,
@@ -412,7 +412,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": 36,
             "name": "split_units",
             "supercategory": "",
             "isthing": 1,
@@ -423,7 +423,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": 37,
             "name": "structural_steel_-_channel",
             "supercategory": "",
             "isthing": 1,
@@ -434,7 +434,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": 38,
             "name": "switch_boards_and_switches",
             "supercategory": "",
             "isthing": 1,
@@ -445,7 +445,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 39,
             "name": "texture_paint",
             "supercategory": "",
             "isthing": 1,
@@ -456,7 +456,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": 40,
             "name": "threaded_rod",
             "supercategory": "",
             "isthing": 1,
@@ -467,7 +467,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 41,
             "name": "transit_mixer",
             "supercategory": "",
             "isthing": 1,
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 42,
             "name": "vcb_panel",
             "supercategory": "",
             "isthing": 1,
@@ -489,7 +489,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": 43,
             "name": "vitrified_tiles",
             "supercategory": "",
             "isthing": 1,
@@ -500,7 +500,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": 44,
             "name": "vrf_units",
             "supercategory": "",
             "isthing": 1,
@@ -511,7 +511,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 45,
             "name": "water_tank",
             "supercategory": "",
             "isthing": 1,
@@ -522,7 +522,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 46,
             "name": "wheel_loader",
             "supercategory": "",
             "isthing": 1,
@@ -533,7 +533,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 47,
             "name": "wood_primer",
             "supercategory": "",
             "isthing": 1,
@@ -544,7 +544,7 @@
             ]
         },
         {
-            "id": 100,
+            "id": 48,
             "name": "building",
             "supercategory": "",
             "isthing": 0,
@@ -555,7 +555,7 @@
             ]
         },
         {
-            "id": 101,
+            "id": 49,
             "name": "ceiling",
             "supercategory": "",
             "isthing": 0,
@@ -566,7 +566,7 @@
             ]
         },
         {
-            "id": 102,
+            "id": 50,
             "name": "floor",
             "supercategory": "",
             "isthing": 0,
@@ -577,7 +577,7 @@
             ]
         },
         {
-            "id": 103,
+            "id": 51,
             "name": "food",
             "supercategory": "",
             "isthing": 0,
@@ -588,7 +588,7 @@
             ]
         },
         {
-            "id": 104,
+            "id": 52,
             "name": "furniture",
             "supercategory": "",
             "isthing": 0,
@@ -599,18 +599,18 @@
             ]
         },
         {
-            "id": 105,
+            "id": 53,
             "name": "ground",
             "supercategory": "",
             "isthing": 0,
             "color": [
-                146,
-                112,
-                198
+                241,
+                129,
+                0
             ]
         },
         {
-            "id": 106,
+            "id": 54,
             "name": "plant",
             "supercategory": "",
             "isthing": 0,
@@ -621,7 +621,7 @@
             ]
         },
         {
-            "id": 107,
+            "id": 55,
             "name": "raw_material",
             "supercategory": "",
             "isthing": 0,
@@ -632,18 +632,18 @@
             ]
         },
         {
-            "id": 108,
+            "id": 56,
             "name": "sky",
             "supercategory": "",
             "isthing": 0,
             "color": [
-                241,
-                129,
-                0
+                146,
+                112,
+                198
             ]
         },
         {
-            "id": 109,
+            "id": 57,
             "name": "solids",
             "supercategory": "",
             "isthing": 0,
@@ -654,7 +654,7 @@
             ]
         },
         {
-            "id": 110,
+            "id": 58,
             "name": "structural",
             "supercategory": "",
             "isthing": 0,
@@ -665,7 +665,7 @@
             ]
         },
         {
-            "id": 111,
+            "id": 59,
             "name": "textile",
             "supercategory": "",
             "isthing": 0,
@@ -676,7 +676,7 @@
             ]
         },
         {
-            "id": 112,
+            "id": 60,
             "name": "wall",
             "supercategory": "",
             "isthing": 0,
@@ -687,7 +687,7 @@
             ]
         },
         {
-            "id": 113,
+            "id": 61,
             "name": "water",
             "supercategory": "",
             "isthing": 0,
@@ -698,7 +698,7 @@
             ]
         },
         {
-            "id": 114,
+            "id": 62,
             "name": "window",
             "supercategory": "",
             "isthing": 0,
@@ -709,7 +709,7 @@
             ]
         },
         {
-            "id": 115,
+            "id": 63,
             "name": "thing",
             "supercategory": "",
             "isthing": 0,
@@ -1727,8 +1727,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         51,
                         68,
@@ -1745,8 +1745,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         52,
                         68,
@@ -1763,8 +1763,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         65,
                         82,
@@ -1776,7 +1776,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -1793,8 +1793,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         78,
                         61,
@@ -1806,7 +1806,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -1823,8 +1823,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         3,
                         38,
@@ -1836,7 +1836,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -1853,8 +1853,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         13,
                         27,
@@ -1871,8 +1871,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         117,
                         11,
@@ -1889,8 +1889,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         22,
                         24,
@@ -1907,8 +1907,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         19,
                         24,
@@ -1925,8 +1925,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         34,
                         44,
@@ -1943,8 +1943,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         114,
                         1,
@@ -1956,7 +1956,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -1973,8 +1973,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         20,
                         3,
@@ -1991,8 +1991,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         26,
                         79,
@@ -2009,8 +2009,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         12,
                         42,
@@ -2027,8 +2027,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         27,
                         70,
@@ -2045,8 +2045,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         22,
                         64,
@@ -2063,8 +2063,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         60,
                         12,
@@ -2081,8 +2081,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         138,
                         17,
@@ -2099,8 +2099,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         64,
                         11,
@@ -2112,7 +2112,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2129,8 +2129,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         7,
                         93,
@@ -2147,8 +2147,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         0,
@@ -2165,8 +2165,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         24,
                         41,
@@ -2183,8 +2183,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         18,
                         109,
@@ -2201,8 +2201,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         77,
                         45,
@@ -2214,7 +2214,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2231,8 +2231,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         37,
                         39,
@@ -2249,8 +2249,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         44,
                         62,
@@ -2267,8 +2267,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         20,
                         63,
@@ -2285,8 +2285,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         25,
                         78,
@@ -2303,8 +2303,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         59,
                         70,
@@ -2321,8 +2321,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         41,
                         37,
@@ -2334,7 +2334,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2351,8 +2351,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         16,
                         41,
@@ -2369,8 +2369,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         42,
                         64,
@@ -2387,8 +2387,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         27,
                         61,
@@ -2405,8 +2405,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         99,
                         29,
@@ -2423,8 +2423,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         13,
                         11,
@@ -2441,8 +2441,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         28,
                         93,
@@ -2454,7 +2454,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2471,8 +2471,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         28,
                         71,
@@ -2489,8 +2489,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         26,
                         10,
@@ -2507,8 +2507,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         27,
                         24,
@@ -2525,8 +2525,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         6,
                         2,
@@ -2543,8 +2543,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         7,
                         3,
@@ -2561,8 +2561,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         47,
                         2,
@@ -2574,7 +2574,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2591,8 +2591,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         39,
                         0,
@@ -2609,8 +2609,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         43,
@@ -2627,8 +2627,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         140,
                         3,
@@ -2640,7 +2640,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2657,8 +2657,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         42,
@@ -2675,8 +2675,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         16,
                         1,
@@ -2693,8 +2693,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         18,
@@ -2711,8 +2711,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         67,
                         2,
@@ -2729,8 +2729,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         52,
                         66,
@@ -2742,7 +2742,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2759,8 +2759,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         8,
@@ -2777,8 +2777,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         10,
                         0,
@@ -2795,8 +2795,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         48,
                         1,
@@ -2808,7 +2808,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2825,8 +2825,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         11,
                         0,
@@ -2838,7 +2838,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2855,8 +2855,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         15,
                         1,
@@ -2873,8 +2873,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         0,
@@ -2891,8 +2891,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         0,
@@ -2904,7 +2904,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -2921,8 +2921,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         8,
@@ -2939,8 +2939,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         0,
@@ -2957,8 +2957,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         94,
                         1,
@@ -2975,8 +2975,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         22,
                         0,
@@ -2993,8 +2993,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         19,
                         43,
@@ -3011,8 +3011,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         30,
                         0,
@@ -3029,8 +3029,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         29,
                         3,
@@ -3042,7 +3042,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3059,8 +3059,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         42,
                         0,
@@ -3077,8 +3077,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         67,
                         3,
@@ -3095,8 +3095,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         37,
                         1,
@@ -3108,7 +3108,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3125,8 +3125,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         41,
                         2,
@@ -3143,8 +3143,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         67,
                         3,
@@ -3161,8 +3161,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         5,
                         0,
@@ -3174,7 +3174,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3191,8 +3191,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         0,
@@ -3209,8 +3209,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         37,
                         0,
@@ -3227,8 +3227,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         3,
                         0,
@@ -3245,8 +3245,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         1,
                         0,
@@ -3263,8 +3263,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         4,
                         0,
@@ -3281,8 +3281,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         7,
                         0,
@@ -3299,8 +3299,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         41,
                         0,
@@ -3317,8 +3317,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         5,
@@ -3335,8 +3335,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         37,
                         0,
@@ -3353,20 +3353,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
-                    "bbox": [
-                        0,
-                        0,
-                        115,
-                        195
-                    ],
-                    "area": 19032.0
-                },
-                {
-                    "iscrowd": 0,
                     "id": 13357971,
-                    "category_id": 102,
+                    "category_id": 50,
                     "bbox": [
                         0,
                         146,
@@ -3377,8 +3365,20 @@
                 },
                 {
                     "iscrowd": 0,
+                    "id": 16726446,
+                    "category_id": 22,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        195
+                    ],
+                    "area": 19032.0
+                },
+                {
+                    "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3395,8 +3395,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         18,
                         7,
@@ -3408,7 +3408,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3425,8 +3425,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         15,
                         7,
@@ -3443,8 +3443,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         14,
                         5,
@@ -3461,8 +3461,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         25,
                         10,
@@ -3479,8 +3479,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         136,
                         39,
@@ -3497,8 +3497,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         71,
@@ -3515,8 +3515,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         97,
@@ -3533,8 +3533,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         79,
@@ -3551,8 +3551,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         7,
@@ -3564,7 +3564,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3581,8 +3581,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         69,
@@ -3599,8 +3599,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         54,
@@ -3617,8 +3617,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         0,
                         149,
@@ -3635,8 +3635,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         4,
                         6,
@@ -3653,8 +3653,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         117,
                         43,
@@ -3671,8 +3671,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         16,
                         10,
@@ -3689,8 +3689,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         30,
                         14,
@@ -3707,8 +3707,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         18,
                         0,
@@ -3720,7 +3720,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3737,8 +3737,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         4,
                         0,
@@ -3750,7 +3750,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3767,8 +3767,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
+                    "id": 16726446,
+                    "category_id": 22,
                     "bbox": [
                         4,
                         0,
@@ -3780,7 +3780,7 @@
                 {
                     "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
@@ -3797,20 +3797,8 @@
             "segments_info": [
                 {
                     "iscrowd": 0,
-                    "id": 25799,
-                    "category_id": 23,
-                    "bbox": [
-                        0,
-                        0,
-                        115,
-                        196
-                    ],
-                    "area": 18813.0
-                },
-                {
-                    "iscrowd": 0,
                     "id": 13357971,
-                    "category_id": 102,
+                    "category_id": 50,
                     "bbox": [
                         0,
                         146,
@@ -3821,8 +3809,20 @@
                 },
                 {
                     "iscrowd": 0,
+                    "id": 16726446,
+                    "category_id": 22,
+                    "bbox": [
+                        0,
+                        0,
+                        115,
+                        196
+                    ],
+                    "area": 18813.0
+                },
+                {
+                    "iscrowd": 0,
                     "id": 16770303,
-                    "category_id": 112,
+                    "category_id": 60,
                     "bbox": [
                         0,
                         0,
