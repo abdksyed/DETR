@@ -173,13 +173,14 @@ def main(args):
         if args.resume.startswith('https'):
             checkpoint = torch.hub.load_state_dict_from_url(
                 args.resume, map_location='cpu', check_hash=True)
+            del checkpoint['model']['class_embed.weight']
+            del checkpoint['model']['class_embed.bias']
+            strict_ = False
         else:
             checkpoint = torch.load(args.resume, map_location='cpu')
+            strict_ = True
 
-        del checkpoint['model']['class_embed.weight']
-        del checkpoint['model']['class_embed.bias']
-
-        model_without_ddp.load_state_dict(checkpoint['model'], strict=False)
+        model_without_ddp.load_state_dict(checkpoint['model'], strict=strict_)
         
         if not args.eval and 'optimizer' in checkpoint and 'lr_scheduler' in checkpoint and 'epoch' in checkpoint:
             optimizer.load_state_dict(checkpoint['optimizer'])
