@@ -6,6 +6,9 @@ import random
 import time
 from pathlib import Path
 
+import os
+from distutils.dir_util import copy_tree
+
 import numpy as np
 import torch
 from torch.utils.data import DataLoader, DistributedSampler
@@ -240,6 +243,15 @@ def main(args):
                     for name in filenames:
                         torch.save(coco_evaluator.coco_eval["bbox"].eval,
                                    output_dir / "eval" / name)
+
+        # To copy checkpoint to drive in Colab
+        os.makedirs(f'/content/drive/MyDrive/Dataset/Checkpoints/{epoch}', exist_ok=True)
+
+        # copy subdirectory example
+        toDirectory = f'/content/drive/MyDrive/Dataset/Checkpoints/{epoch}'
+        fromDirectory = "/content/output/"
+
+        copy_tree(fromDirectory, toDirectory)
 
     total_time = time.time() - start_time
     total_time_str = str(datetime.timedelta(seconds=int(total_time)))
