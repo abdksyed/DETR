@@ -23,6 +23,27 @@ from datasets.construction import make_coco_transforms
 import matplotlib.pyplot as plt
 import time
 
+CLASSES = {
+    0: 'aac_blocks', 1: 'adhesives', 2: 'ahus', 
+    3: 'aluminium_frames_for_false_ceiling', 4: 'chiller', 
+    5: 'concrete_mixer_machine', 6: 'concrete_pump_(50%)', 
+    7: 'control_panel', 8: 'cu_piping', 9: 'distribution_transformer', 
+    10: 'dump_truck___tipper_truck', 11: 'emulsion_paint', 12: 'enamel_paint', 
+    13: 'fine_aggregate', 14: 'fire_buckets', 15: 'fire_extinguishers', 
+    16: 'glass_wool', 17: 'grader', 18: 'hoist', 19: 'hollow_concrete_blocks',
+    20: 'hot_mix_plant', 21: 'hydra_crane', 22: 'interlocked_switched_socket',
+    23: 'junction_box', 24: 'lime', 25: 'marble', 26: 'metal_primer',
+    27: 'pipe_fittings', 28: 'rcc_hume_pipes', 29: 'refrigerant_gas', 
+    30: 'river_sand', 31: 'rmc_batching_plant', 32: 'rmu_units', 
+    33: 'sanitary_fixtures', 34: 'skid_steer_loader_(bobcat)', 
+    35: 'smoke_detectors', 36: 'split_units', 37: 'structural_steel_-_channel', 
+    38: 'switch_boards_and_switches', 39: 'texture_paint', 40: 'threaded_rod', 
+    41: 'transit_mixer', 42: 'vcb_panel', 43: 'vitrified_tiles', 44: 'vrf_units', 
+    45: 'water_tank', 46: 'wheel_loader', 47: 'wood_primer', 48: 'building', 
+    49: 'ceiling', 50: 'floor', 51: 'food', 52: 'furniture', 53: 'ground', 
+    54: 'plant', 55: 'raw_material', 56: 'sky', 57: 'solids', 58: 'structural', 
+    59: 'textile', 60: 'wall', 61: 'water', 62: 'window', 63: 'thing'
+    }
 
 def box_cxcywh_to_xyxy(x):
     x_c, y_c, w, h = x.unbind(1)
@@ -193,7 +214,8 @@ def infer(images_path, model, postprocessors, device, output_path):
 
         img = np.array(orig_image)
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-        for idx, box in enumerate(bboxes_scaled):
+        font = cv2.FONT_HERSHEY_SIMPLEX
+        for idx, (box, logit) in enumerate(zip(bboxes_scaled, probas)):
             bbox = box.cpu().data.numpy()
             bbox = bbox.astype(np.int32)
             bbox = np.array([
@@ -204,7 +226,12 @@ def infer(images_path, model, postprocessors, device, output_path):
                 ])
             bbox = bbox.reshape((4, 2))
             randomColor = random.sample(range(0, 255), 3)
+            class_id = int(logit.argmax())
             cv2.polylines(img, [bbox], True, randomColor, 2)
+            text_x = int(bbox[0,0] + 5)
+            text_y = int(bbox[0,1] + 25)
+            img = cv2.putText(img, CLASSES[class_id], (text_x, text_y), font, 1, 
+                        randomColor, 2)
 
         img_save_path = os.path.join(output_path, filename)
         cv2.imwrite(img_save_path, img)
