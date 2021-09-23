@@ -20,10 +20,12 @@ class ConstructionPanoptic:
         # sort 'images' field so that they are aligned with 'annotations'
         # i.e., in alphabetical order
         self.coco['images'] = sorted(self.coco['images'], key=lambda x: x['id'])
+        self.coco['annotations'] = sorted(self.coco['annotations'], key=lambda x: x['image_id'])
         # sanity checkP
         if "annotations" in self.coco:
             for img, ann in zip(self.coco['images'], self.coco['annotations']):
-                assert img['file_name'][:-4] == ann['file_name'][:-4]
+                #print(img['file_name'], ann['file_name'])
+                assert img['file_name'].split('.')[:-1] == ann['file_name'].split('.')[:-1]
 
         self.img_folder = img_folder
         self.ann_folder = ann_folder
