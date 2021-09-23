@@ -35,7 +35,8 @@ class ConstructionPanoptic:
 
     def __getitem__(self, idx):
         ann_info = self.coco['annotations'][idx] if "annotations" in self.coco else self.coco['images'][idx]
-        img_path = Path(self.img_folder) / ann_info['file_name'].replace('.png', '.jpg')
+        img_ext = Path(self.coco['images'][idx]['file_name']).suffix
+        img_path = Path(self.img_folder) / ann_info['file_name'].replace('.png', img_ext)
         ann_path = Path(self.ann_folder) / ann_info['file_name']
 
         img = Image.open(img_path).convert('RGB')
