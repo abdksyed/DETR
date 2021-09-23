@@ -16,12 +16,19 @@ def get_coco_api_from_dataset(dataset):
 
 
 def build_dataset(image_set, args):
-    if args.dataset_file == "construction":
+    
+    if args.dataset_file == 'construction':
         return build_construction(image_set, args)
     if args.dataset_file == 'coco':
         return build_coco(image_set, args)
+
+    if args.dataset_file == 'construction_panoptic':
+        # to avoid making panopticapi required for coco
+        from .construction_panoptic import build as build_coco_panoptic
+        return build_coco_panoptic(image_set, args)
     if args.dataset_file == 'coco_panoptic':
         # to avoid making panopticapi required for coco
         from .coco_panoptic import build as build_coco_panoptic
         return build_coco_panoptic(image_set, args)
+
     raise ValueError(f'dataset {args.dataset_file} not supported')

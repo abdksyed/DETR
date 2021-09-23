@@ -84,7 +84,7 @@ def get_args_parser():
     # dataset parameters
     parser.add_argument('--dataset_file', default='coco')
     parser.add_argument('--data_path', type=str)
-    parser.add_argument('--coco_panoptic_path', type=str)
+    parser.add_argument('--data_panoptic_path', type=str)
     parser.add_argument('--remove_difficult', action='store_true')
 
     parser.add_argument('--output_dir', default='',
@@ -162,8 +162,10 @@ def main(args):
 
     if args.dataset_file == "coco_panoptic":
         # We also evaluate AP during panoptic training, on original coco DS
-        coco_val = datasets.coco.build("val", args)
-        base_ds = get_coco_api_from_dataset(coco_val)
+        # coco_val = datasets.coco.build("val", args)
+        # base_ds = get_coco_api_from_dataset(coco_val)
+        construction_val = datasets.construction.build("val", args)
+        base_ds = get_coco_api_from_dataset(construction_val)
     else:
         base_ds = get_coco_api_from_dataset(dataset_val)
 
