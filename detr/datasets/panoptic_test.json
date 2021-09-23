@@ -31092,6 +31092,252 @@
                     "id": 33265,
                     "category_id": 53,
                     "bbox": [
+                        372,
+                        194,
+                        228,
+                        44
+                    ],
+                    "area": 6503.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 53402,
+                    "category_id": 61,
+                    "bbox": [
+                        0,
+                        218,
+                        500,
+                        182
+                    ],
+                    "area": 74915.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 48,
+                    "bbox": [
+                        64,
+                        36,
+                        536,
+                        168
+                    ],
+                    "area": 30200.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        136,
+                        377,
+                        90
+                    ],
+                    "area": 24576.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        178
+                    ],
+                    "area": 70453.0
+                }
+            ],
+            "file_name": "river_sand_____img_051.png",
+            "image_id": 275
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 53,
+                    "bbox": [
+                        0,
+                        0,
+                        600,
+                        479
+                    ],
+                    "area": 50481.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        96,
+                        600,
+                        383
+                    ],
+                    "area": 186072.0
+                }
+            ],
+            "file_name": "river_sand_____img_047.png",
+            "image_id": 759
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        8,
+                        1,
+                        686,
+                        301
+                    ],
+                    "area": 134067.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16716249,
+                    "category_id": 57,
+                    "bbox": [
+                        0,
+                        0,
+                        776,
+                        536
+                    ],
+                    "area": 217838.0
+                }
+            ],
+            "file_name": "river_sand_____img_024.png",
+            "image_id": 473
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 53,
+                    "bbox": [
+                        0,
+                        119,
+                        275,
+                        64
+                    ],
+                    "area": 3708.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        7,
+                        81,
+                        268,
+                        50
+                    ],
+                    "area": 4509.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 48,
+                    "bbox": [
+                        0,
+                        87,
+                        8,
+                        44
+                    ],
+                    "area": 293.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        56,
+                        275,
+                        121
+                    ],
+                    "area": 17634.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        0,
+                        0,
+                        275,
+                        94
+                    ],
+                    "area": 21876.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16716249,
+                    "category_id": 57,
+                    "bbox": [
+                        0,
+                        87,
+                        275,
+                        95
+                    ],
+                    "area": 829.0
+                }
+            ],
+            "file_name": "river_sand_____img_012.png",
+            "image_id": 996
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        0,
+                        42,
+                        225,
+                        60
+                    ],
+                    "area": 3287.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        63,
+                        225,
+                        73
+                    ],
+                    "area": 11099.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        0,
+                        0,
+                        225,
+                        83
+                    ],
+                    "area": 14516.0
+                }
+            ],
+            "file_name": "river_sand_____img_002.png",
+            "image_id": 592
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 53,
+                    "bbox": [
                         200,
                         131,
                         551,
@@ -31372,6 +31618,282 @@
             ],
             "file_name": "river_sand_____img_058.jpg.png",
             "image_id": 962
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 53,
+                    "bbox": [
+                        0,
+                        23,
+                        800,
+                        427
+                    ],
+                    "area": 29092.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        0,
+                        34,
+                        245,
+                        162
+                    ],
+                    "area": 7249.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        39,
+                        800,
+                        411
+                    ],
+                    "area": 267267.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        735,
+                        0,
+                        22,
+                        11
+                    ],
+                    "area": 156.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 60,
+                    "bbox": [
+                        0,
+                        0,
+                        798,
+                        86
+                    ],
+                    "area": 39474.0
+                }
+            ],
+            "file_name": "river_sand_____img_026.jpg.png",
+            "image_id": 326
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 33265,
+                    "category_id": 53,
+                    "bbox": [
+                        0,
+                        20,
+                        800,
+                        430
+                    ],
+                    "area": 42015.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        0,
+                        0,
+                        766,
+                        218
+                    ],
+                    "area": 42049.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 8393298,
+                    "category_id": 48,
+                    "bbox": [
+                        25,
+                        0,
+                        775,
+                        74
+                    ],
+                    "area": 13757.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        56,
+                        800,
+                        388
+                    ],
+                    "area": 230020.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        0,
+                        0,
+                        796,
+                        43
+                    ],
+                    "area": 9365.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16716249,
+                    "category_id": 57,
+                    "bbox": [
+                        602,
+                        70,
+                        110,
+                        49
+                    ],
+                    "area": 3718.0
+                }
+            ],
+            "file_name": "river_sand_____img_025.jpg.png",
+            "image_id": 437
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        0,
+                        0,
+                        598,
+                        88
+                    ],
+                    "area": 18274.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        48,
+                        791,
+                        348
+                    ],
+                    "area": 180571.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 13004946,
+                    "category_id": 56,
+                    "bbox": [
+                        434,
+                        0,
+                        168,
+                        27
+                    ],
+                    "area": 2325.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16716249,
+                    "category_id": 57,
+                    "bbox": [
+                        0,
+                        34,
+                        279,
+                        137
+                    ],
+                    "area": 15321.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 60,
+                    "bbox": [
+                        634,
+                        0,
+                        166,
+                        112
+                    ],
+                    "area": 12743.0
+                }
+            ],
+            "file_name": "river_sand_____img_021.jpg.png",
+            "image_id": 142
+        },
+        {
+            "segments_info": [
+                {
+                    "iscrowd": 0,
+                    "id": 5867612,
+                    "category_id": 54,
+                    "bbox": [
+                        533,
+                        27,
+                        267,
+                        47
+                    ],
+                    "area": 3690.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 10773503,
+                    "category_id": 30,
+                    "bbox": [
+                        0,
+                        9,
+                        800,
+                        441
+                    ],
+                    "area": 266287.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 11316136,
+                    "category_id": 52,
+                    "bbox": [
+                        539,
+                        0,
+                        59,
+                        50
+                    ],
+                    "area": 2110.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16716249,
+                    "category_id": 57,
+                    "bbox": [
+                        16,
+                        419,
+                        90,
+                        31
+                    ],
+                    "area": 1653.0
+                },
+                {
+                    "iscrowd": 0,
+                    "id": 16770303,
+                    "category_id": 60,
+                    "bbox": [
+                        0,
+                        0,
+                        535,
+                        95
+                    ],
+                    "area": 21761.0
+                }
+            ],
+            "file_name": "river_sand_____img_007.jpg.png",
+            "image_id": 470
         },
         {
             "segments_info": [
