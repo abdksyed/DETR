@@ -362,5 +362,8 @@ def build(args):
         if args.dataset_file == "coco_panoptic":
             is_thing_map = {i: i <= 90 for i in range(201)}
             postprocessors["panoptic"] = PostProcessPanoptic(is_thing_map, threshold=0.85)
+        elif args.dataset_file == "construction_panoptic":
+            is_thing_map = {i: i <= 47 for i in range(64)}
+            postprocessors["panoptic"] = PostProcessPanoptic(is_thing_map, threshold=0.85)
 
     return model, criterion, postprocessors
