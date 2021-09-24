@@ -106,12 +106,15 @@ def detr_resnet50_panoptic(
     """
     model = _make_detr("resnet50", dilation=False, num_classes=num_classes, mask=True)
     is_thing_map = {i: i <= 90 for i in range(250)}
-    if pretrained:
+    if pretrained.startswith('https'):
         checkpoint = torch.hub.load_state_dict_from_url(
-            url="https://dl.fbaipublicfiles.com/detr/detr-r50-panoptic-00ce5173.pth",
+            url="https://dl.fbaipublicfiles.com/detr/detr-r101-panoptic-40021d53.pth",
             map_location="cpu",
             check_hash=True,
         )
+        model.load_state_dict(checkpoint["model"])
+    else:
+        checkpoint = torch.load(pretrained, map_location='cpu')
         model.load_state_dict(checkpoint["model"])
     if return_postprocessor:
         return model, PostProcessPanoptic(is_thing_map, threshold=threshold)
@@ -145,7 +148,7 @@ def detr_resnet50_dc5_panoptic(
 
 
 def detr_resnet101_panoptic(
-    pretrained=False, num_classes=250, threshold=0.85, return_postprocessor=False
+    pretrained=None, num_classes=250, threshold=0.85, return_postprocessor=False
 ):
     """
     DETR-DC5 R101 with 6 encoder and 6 decoder layers.
@@ -155,14 +158,18 @@ def detr_resnet101_panoptic(
    threshold is the minimum confidence required for keeping segments in the prediction
     """
     model = _make_detr("resnet101", dilation=False, num_classes=num_classes, mask=True)
-    is_thing_map = {i: i <= 90 for i in range(250)}
-    if pretrained:
+    is_thing_map = {i: i <= 47 for i in range(num_classes)}
+    if pretrained.startswith('https'):
         checkpoint = torch.hub.load_state_dict_from_url(
             url="https://dl.fbaipublicfiles.com/detr/detr-r101-panoptic-40021d53.pth",
             map_location="cpu",
             check_hash=True,
         )
         model.load_state_dict(checkpoint["model"])
+    else:
+        checkpoint = torch.load(pretrained, map_location='cpu')
+        model.load_state_dict(checkpoint["model"])
+
     if return_postprocessor:
         return model, PostProcessPanoptic(is_thing_map, threshold=threshold)
     return model
