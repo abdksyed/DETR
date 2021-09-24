@@ -247,10 +247,10 @@ def main(args):
                                    output_dir / "eval" / name)
 
         # To copy checkpoint to drive in Colab
-        os.makedirs(f'/content/drive/MyDrive/Dataset/Checkpoints/{epoch}', exist_ok=True)
+        os.makedirs(f'/content/drive/MyDrive/Dataset/Checkpoints/{args.dataset_file}/{epoch}', exist_ok=True)
 
         # copy
-        toDirectory = f'/content/drive/MyDrive/Dataset/Checkpoints/{epoch}'
+        toDirectory = f'/content/drive/MyDrive/Dataset/Checkpoints/{args.dataset_file}/{epoch}'
         fromDirectory = "/content/output/"
 
         copy_tree(fromDirectory, toDirectory)
