@@ -1,6 +1,6 @@
 [![Panoptic_Flow](./asset/videos/DETR.gif)](https://www.youtube.com/watch?v=wk5iJosZYTM)
 
-> Youtube Video: https://www.youtube.com/watch?v=wk5iJosZYTM
+> Click on GIF for YouTube video
 
 # **DE⫶TR**: End-to-End Object Detection and Panoptic Segmentation with Transformers on Custom Dataset
 
