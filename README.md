@@ -1,4 +1,4 @@
-[![Panoptic_Flow](./asset/videos/DETR.gif)]](https://www.youtube.com/watch?v=wk5iJosZYTM)
+[![Panoptic_Flow](./asset/videos/DETR.gif)](https://www.youtube.com/watch?v=wk5iJosZYTM)
 
 > Youtube Video: https://www.youtube.com/watch?v=wk5iJosZYTM
 
