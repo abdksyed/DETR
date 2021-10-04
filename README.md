@@ -33,7 +33,9 @@ Let's go deep into the process now:
 
 First let's wonder and understand how DETR works and ponder on few questions.
 
-[Understanding DETR](https://abdksyed.github.io/blog/detr/panoptic%20segmentation/object%20detection/2021/09/30/DETR-QA.html) 
+[Understanding DETR](https://abdksyed.github.io/blog/detr/panoptic%20segmentation/object%20detection/2021/09/30/DETR.html)
+
+[Few Questions to Ponder](https://abdksyed.github.io/blog/detr/panoptic%20segmentation/object%20detection/2021/09/30/DETR-QA.html) 
 
 
 
