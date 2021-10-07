@@ -1,5 +1,3 @@
-# ALERT: Github Actions is down as of 05th October 9:00 PM, some pages may not load completely in below blogs.
-
 [![Panoptic_Flow](./asset/videos/DETR.gif)](https://www.youtube.com/watch?v=wk5iJosZYTM)
 
 > Click on GIF for YouTube video
